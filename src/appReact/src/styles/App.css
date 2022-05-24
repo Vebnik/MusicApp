@@ -1,0 +1,42 @@
+/*@import "./FontAwesome.css";*/
+
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+}
+
+.App {
+    background-color: #a6e5cd;
+    width: 100%;
+    height: 900px;
+
+    display: grid;
+    grid-template-rows: 20px auto;
+}
+
+.Header {
+    background-color: #294e50;
+    width: 100%;
+    height: 20px;
+    border-radius: 0 0 10px 10px;
+    -webkit-app-region: drag;
+}
+
+.MainPage {
+    background-color: #a6e5cd;
+
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 20% 80%;
+}
+
+
+.NavMenu {
+    background-color: burlywood;
+}
+
+.Content {
+    background-color: #bdb171;
+}

@@ -1,3 +1,12 @@
+.StaticPage {
+    background-color: #a6e5cd;
+
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 18% 5px auto;
+    overflow: hidden;
+}
+
 .MainPage {
     background-color: #a6e5cd;
 
@@ -7,14 +16,6 @@
     overflow: hidden;
 }
 
-.SearchPage {
-    background-color: #a6e5cd;
-
-    display: grid;
-    grid-template-rows: auto;
-    grid-template-columns: 18% 5px auto;
-    overflow: hidden;
-}
 
 .FavoritePage {
     background-color: #a6e5cd;

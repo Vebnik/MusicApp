@@ -1,17 +1,21 @@
 // import
+import {BrowserRouter as Router} from "react-router-dom";
 import Header from "./src/components/Header";
 import './src/styles/App.css'
-import MainPage from "./src/pages/MainPage";
-import FavoritePage from "./src/pages/FavoritePage";
-import SearchPage from "./src/pages/SearchPage";
+import Content from "./src/components/Content";
+import StaticPage from "./src/pages/StaticPage";
 
 // Logic
 function App() {
   return (
-    <div className="App">
-      <Header/>
-      <SearchPage/>
-    </div>
+    <Router>
+      <div className="App">
+        <Header/>
+        <StaticPage>
+          <Content/>
+        </StaticPage>
+      </div>
+    </Router>
   )
 }
 

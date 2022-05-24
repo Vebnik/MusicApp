@@ -28,7 +28,7 @@ class AppStart {
 				devTools: true
 			},
 			frame: false,
-			hasShadow: true,
+			hasShadow: true
 		})
 
 		win.loadURL(this.#paths.root || this.#paths.devRoot)

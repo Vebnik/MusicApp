@@ -1,4 +1,5 @@
 @import "fontawesome/css/fontawesome.css";
+@import "fontawesome/css/all.css";
 @import "PagesStyles.css";
 @import "NavMenu.css";
 
@@ -8,24 +9,48 @@
     margin: 0;
     border: none;
     outline: none;
+    user-select: none;
 }
 
 .App {
+    overflow: hidden;
     background-color: #a6e5cd;
     width: 100%;
     height: 900px;
 
     display: grid;
-    grid-template-rows: 20px auto;
+    grid-template-rows: 25px auto;
 }
 
 .Header {
     background-color: #294e50;
     width: 100%;
-    height: 20px;
+    height: 25px;
     border-radius: 0 0 10px 10px;
+
+    display: grid;
+    grid-template-columns: 90% 5% 5%;
+}
+
+.HeaderDrag {
     -webkit-app-region: drag;
 }
+
+.HeaderBtn {
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-left: 1px solid #a6e5cd;
+    transition-duration: 250ms;
+}
+
+.HeaderBtn:hover {
+    background-color: #487175;
+}
+
+
 
 .Content {
 

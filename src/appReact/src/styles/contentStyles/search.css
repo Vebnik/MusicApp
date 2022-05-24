@@ -51,19 +51,39 @@
     align-items: center;
 
     overflow: auto;
-}
-
-.SearchList::-webkit-scrollbar {
-    width: 0;
-    height: 0;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
 .SongElement {
+
+    display: flex;
+    justify-content: space-between;
+
     margin: 5px;
-    padding: 10px;
+    padding: 5px;
     width: 87%;
     background-color: rgba(41, 78, 80, 0.49);
     border-radius:  5px 5px;
-    text-align: center;
+    border-bottom: 2px solid;
 
+    transition-duration: 250ms;
+}
+
+.SongElement:hover {
+    background-color: rgba(41, 78, 80, 0.72);
+}
+
+.songContext {
+    text-align: center;
+}
+
+.songContext > i {
+    cursor: pointer;
+    width: 20px;
+    transition-duration: 250ms;
+}
+
+.songContext > i:hover {
+    color: #a6e5cd;
 }

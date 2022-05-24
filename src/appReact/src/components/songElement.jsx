@@ -1,12 +1,15 @@
 import React from 'react';
+import SongElButton from "./songElButton";
 
 const SongElement = (props) => {
 
-	const { id, title, duration } = props
+	const { title, duration } = props
 
 	return (
 		<div className={'SongElement'}>
-			<i>{title} {duration}</i>
+			<span>{title}</span>
+			<span>{duration} min </span>
+			<SongElButton />
 		</div>
 	)
 }

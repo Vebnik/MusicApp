@@ -7,7 +7,7 @@ const SearchContent = () => {
 	const testSong = {
 		id: 1,
 		title: 'Test name song - Nice super song',
-		duration: '04:43 ⏰'
+		duration: '04:43'
 	}
 
 	return (
@@ -22,8 +22,6 @@ const SearchContent = () => {
 			</div>
 			<div className={'dividerSearch'}> </div>
 			<div className={'SearchList'}>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
 				<SongElement title={testSong.title} duration={testSong.duration}/>
 				<SongElement title={testSong.title} duration={testSong.duration}/>
 				<SongElement title={testSong.title} duration={testSong.duration}/>

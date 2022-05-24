@@ -6,6 +6,9 @@ const SearchPage = () => {
 	return (
 		<div className={'SearchPage'}>
 			<NavMenu/>
+			<div className={'divider'}>
+
+			</div>
 			<Content/>
 		</div>
 	)

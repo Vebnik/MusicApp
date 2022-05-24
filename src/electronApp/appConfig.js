@@ -20,12 +20,15 @@ class AppStart {
 	#createWindow () {
 		const win = new BrowserWindow({
 			darkTheme: true,
-			width: 1000,
-			height: 600,
+			width: 1100,
+			height: 900,
 			resizable: false,
 			webPreferences: {
-				nodeIntegration: true
-			}
+				nodeIntegration: true,
+				devTools: true
+			},
+			frame: false,
+			hasShadow: true,
 		})
 
 		win.loadURL(this.#paths.root || this.#paths.devRoot)

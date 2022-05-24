@@ -1,6 +1,15 @@
 import React from 'react';
+import SongElement from "../../components/songElement";
+
 
 const SearchContent = () => {
+
+	const testSong = {
+		id: 1,
+		title: 'Test name song - Nice super song',
+		duration: '04:43 ⏰'
+	}
+
 	return (
 		<div className={'SearchContent'}>
 			<div className={'search'}>
@@ -12,7 +21,19 @@ const SearchContent = () => {
 				</form>
 			</div>
 			<div className={'dividerSearch'}> </div>
-			<div className={'SearchList'}> </div>
+			<div className={'SearchList'}>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+				<SongElement title={testSong.title} duration={testSong.duration}/>
+			</div>
 		</div>
 	);
 };

@@ -1,0 +1,46 @@
+.SearchContent {
+    display: grid;
+    grid-template-rows: 10% 1% auto;
+
+
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.MyInput {
+    background-color: rgba(41, 78, 80, 0.49);
+    font-size: 20px;
+    height: 31px;
+    width: 400px;
+    text-align: center;
+    border-radius:  5px 5px;
+    border-bottom: 2px solid;
+    margin-right: 5px;
+
+}
+
+.submitForm {
+    padding: 3px;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: 20px;
+    text-align: center;
+    transition-duration: 250ms;
+}
+
+.submitForm:hover {
+    border-radius: 5px 5px;
+    background-color: rgba(41, 78, 80, 0.4);
+}
+
+.dividerSearch {
+    background-color:  rgba(0, 21, 110, 0.7);
+    border-radius: 15px 15px;
+    width: 90%;
+    display: flex;
+    margin-left: 45px;
+}

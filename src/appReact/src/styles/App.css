@@ -2,7 +2,7 @@
 @import "fontawesome/css/all.css";
 @import "PagesStyles.css";
 @import "NavMenu.css";
-
+@import "contentStyles/mainContent.css";
 
 * {
     padding: 0;
@@ -12,6 +12,7 @@
     user-select: none;
     user-focus: none;
     text-decoration: none;
+    font-family: cursive;
     color: rgba(0, 21, 110, 0.7);
 }
 

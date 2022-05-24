@@ -21,7 +21,7 @@ class AppStart {
 		const win = new BrowserWindow({
 			darkTheme: true,
 			width: 1100,
-			height: 900,
+			height: 650,
 			resizable: false,
 			webPreferences: {
 				nodeIntegration: true,

@@ -7,28 +7,9 @@
     overflow: hidden;
 }
 
-.MainPage {
-    background-color: #a6e5cd;
-
-    display: grid;
-    grid-template-rows: auto;
-    grid-template-columns: 18% 2px auto;
-    overflow: hidden;
-}
-
-
-.FavoritePage {
-    background-color: #a6e5cd;
-
-    display: grid;
-    grid-template-rows: auto;
-    grid-template-columns: 18% 2px auto;
-    overflow: hidden;
-}
-
 .divider {
     margin-top: 19px;
     height: 95%;
-    background-color:  #294e50;
+    background-color:  rgba(0, 21, 110, 0.7);
     border-radius: 15px 15px;
 }

@@ -1,7 +1,6 @@
 .SearchContent {
     display: grid;
-    grid-template-rows: 10% 1% auto;
-
+    grid-template-rows: 10% 1% 89%;
 
 }
 
@@ -50,7 +49,7 @@
     flex-direction: column;
     align-items: center;
 
-    overflow: auto;
+    overflow: hidden;
     -ms-overflow-style: none;
     scrollbar-width: none;
 }

@@ -1,39 +1,30 @@
-import React from 'react';
+import React, {useState} from 'react';
 import SongElement from "../../components/songElement";
-
+import SearchInput from "../../components/searchInput";
+import {getMusic} from "../../utils/searchMusic";
+import PaginationList from "../../components/paginationList";
 
 const SearchContent = () => {
 
-	const testSong = {
-		id: 1,
-		title: 'Test name song - Nice super song',
-		duration: '04:43'
+
+	const getSong = (title) => {
+		getMusic(title).then(res => {
+			setSong([...song, ...res.data])
+		})
 	}
+
+	const [song, setSong] = useState([])
 
 	return (
 		<div className={'SearchContent'}>
-			<div className={'search'}>
-				<form>
-					<input className={'MyInput'}/>
-					<button className={'submitForm'}>
-						Search <i className={'fa fa-globe'}> </i>
-					</button>
-				</form>
-			</div>
+			<SearchInput getSong={getSong}/>
 			<div className={'dividerSearch'}> </div>
 			<div className={'SearchList'}>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
-				<SongElement title={testSong.title} duration={testSong.duration}/>
+				{song.map((el, i) => i < 10 ? <SongElement dataSong={el}/> : null )}
 			</div>
+			<PaginationList />
 		</div>
-	);
-};
+	)
+}
 
 export default SearchContent;

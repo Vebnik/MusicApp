@@ -3,7 +3,7 @@ import SongElButton from "./songElButton";
 
 const SongElement = (props) => {
 
-	const { title, duration } = props
+	const { title, duration } = props.dataSong
 
 	return (
 		<div className={'SongElement'}>

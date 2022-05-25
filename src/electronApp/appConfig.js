@@ -24,6 +24,7 @@ class AppStart {
 			height: 650,
 			resizable: false,
 			webPreferences: {
+				webSecurity: false,
 				nodeIntegration: true,
 				devTools: true
 			},

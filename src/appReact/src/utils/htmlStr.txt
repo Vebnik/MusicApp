@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Поиск по сайту &raquo; Скачать самые свежие новинки 2021 года в mp3</title>
+<meta name="description" content="MP3UK.net - Новых песен 2021 - качайте бесплатно и без регистрации свежую музыку.">
+<meta name="keywords" content="новинки, музыки, качайте, свежую, музыку, 2021">
+<link rel="search" type="application/opensearchdescription+xml" href="//mp3uks.ru/index.php?do=opensearch" title="Скачать самые свежие новинки 2021 года в mp3">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/templates/mp3uk/images/favicon.png" />
+<link href="/templates/mp3uk/style/styles.css?v=117" type="text/css" rel="stylesheet" />
+<link href="/templates/mp3uk/style/engine.css" type="text/css" rel="stylesheet" />
+<meta name="theme-color" content="#111">
+<meta name="google-site-verification" content="30Zb538VtusE-XdiyjQ2lCuIBrsfj4P0HEjHsjgsYgU" />
+
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+<div class="wrap">
+
+	<div class="wrap-center wrap-main">
+
+		<div class="content" id="wajax">
+
+			<div class="content-in fx-row">
+
+				<div class="main fx-1">
+
+					<header class="header fx-row fx-middle">
+						<a href="/" class="logo"><img src="https://mp3uks.ru/templates/mp3uk/images/logo.png" alt="" /></a>
+						<div class="hdesc">Свежая музыка <br>2022 года!</div>
+						<div class="btn-menu hidden"><span class="fas fa-bars"></span></div>
+						<div class="search-wrap fx-1">
+							<form id="quicksearch" method="post">
+								<input type="hidden" name="do" value="search" />
+								<input type="hidden" name="subaction" value="search" />
+								<div class="search-box">
+									<input id="story" name="story" placeholder="Поиск музыки..." type="text" />
+									<button type="submit"><span class="fas fa-search"></span></button>
+								</div>
+							</form>
+						</div>
+					</header>
+
+					<!-- END HEADER -->
+
+					<main class="main-content">
+						
+						
+						
+						<div class="speedbar nowrap"><span class="fas fa-home"></span>
+	<span id="dle-speedbar" itemscope itemtype="https://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><meta itemprop="position" content="1"><a href="//mp3uks.ru/" itemprop="item"><span itemprop="name">MP3UK</span></a></span> / Поиск по сайту</span>
+</div>
+						<div id='dle-content'><div class="search-page">
+	<header class="sub-title"><h1>Поиск по сайту</h1></header>
+	<div class="searchtable" id="searchtable" name="searchtable"><form name="fullsearch" id="fullsearch" action="//mp3uks.ru/index.php?do=search" method="post">
+<input type="hidden" name="do" id="do" value="search" />
+<input type="hidden" name="subaction" id="subaction" value="search" />
+<input type="hidden" name="search_start" id="search_start" value="0" />
+<input type="hidden" name="full_search" id="full_search" value="0" />
+<input type="hidden" name="result_from" id="result_from" value="1" /><table cellpadding="4" cellspacing="0" width="100%">
+  <tr>
+    <td class="search">
+      <div style="margin:10px;">
+                <input type="text" name="story" id="searchinput" value="Gorillaz" class="textin" style="width:250px" onchange="document.getElementById('result_from').value = 1" /><br /><br />
+                <input type="button" class="bbcodes" name="dosearch" id="dosearch" value="Начать поиск" onclick="javascript:list_submit(-1); return false;" />
+                <input type="button" class="bbcodes" name="dofullsearch" id="dofullsearch" value="Расширенный поиск" onclick="javascript:full_submit(1); return false;" />
+            </div>
+
+        </td>
+    </tr>
+</table>
+</form></div>
+	<div class="berrors"><b>Информация</b><br />По Вашему запросу найдено 1000 ответов (Результаты запроса 1 - 50) :</div>
+</div><script>
+<!--
+function clearform(frmname){
+  var frm = document.getElementById(frmname);
+  for (var i=0;i<frm.length;i++) {
+    var el=frm.elements[i];
+    if (el.type=="checkbox" || el.type=="radio") {
+    	if (el.name=='showposts') {document.getElementById('rb_showposts_0').checked=1; } else {el.checked=0; }
+    }
+    if ((el.type=="text") || (el.type=="textarea") || (el.type == "password")) { el.value=""; continue; }
+    if ((el.type=="select-one") || (el.type=="select-multiple")) { el.selectedIndex=0; }
+  }
+  document.getElementById('replylimit').value = 0;
+  document.getElementById('search_start').value = 0;
+  document.getElementById('result_from').value = 1;
+}
+function list_submit(prm){
+  var frm = document.getElementById('fullsearch');
+	if (prm == -1) {
+		prm=0;
+		frm.result_from.value=1;
+	} else {
+		frm.result_from.value=(prm-1) * 16 + 1;
+	}
+	frm.search_start.value=prm;
+
+  frm.submit();
+  return false;
+}
+function full_submit(prm){
+    document.getElementById('fullsearch').full_search.value=prm;
+    list_submit(-1);
+}
+//-->
+</script>
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="//mp3uks.ru/mp3/files/gorillaz-feel-good-inc-mp3.mp3" data-title="Feel Good Inc" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 " href="//mp3uks.ru/pesen-2020/18343-gorillaz-feel-good-inc.html">
+		<div class="track-title nowrap">Feel Good Inc</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:42</div>
+	<a class="track-dl" href="//mp3uks.ru/mp3/files/gorillaz-feel-good-inc-mp3.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnkn2FqqZQgW-lE0gibkyIpcNJFrTeMwqIoKvtc21yTjTd7jrEesMCNfTBBCnjfHoRbsEQUHawjMb_wz5gjsyeUghkfgdUzkIxp_JVpBHySBOAk9_zro5JAD3YNsjJr53Z_PfeCQWZc12KJRCmyNry7dKVwJM1iQgBGxoKitP-TIjDG7OYnehWb4xqfW7HRgR6TDsjHU0hrtc8QuouCjRi3xdW5Rw9Vb8YUmTIYzusq-FsesNr-TjEictDilRJNDnJvMvJ3i9WB9iqy-D5ir0r0g=.mp3" data-title="🌞" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+%F0%9F%8C%9E">
+		<div class="track-title nowrap">🌞</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:22</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnkn2FqqZQgW-lE0gibkyIpcNJFrTeMwqIoKvtc21yTjTd7jrEesMCNfTBBCnjfHoRbsEQUHawjMb_wz5gjsyeUghkfgdUzkIxp_JVpBHySBOAk9_zro5JAD3YNsjJr53Z_PfeCQWZc12KJRCmyNry7dKVwJM1iQgBGxoKitP-TIjDG7OYnehWb4xqfW7HRgR6TDsjHU0hrtc8QuouCjRi3xdW5Rw9Vb8YUmTIYzusq-FsesNr-TjEictDilRJNDnJvMvJ3i9WB9iqy-D5ir0r0g=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnkv8Eq-bQA2-lE0gibkyIpcNJFrTeMwqIoKvtc21yTjTd7jrEesMCNfTBBCnjfHoRbsEQUHawjMb_wz5gjsyeUghzM5sUwNor5-teIxIrRF0OzkftLpdBX_1F9MLOL1RYcfxQUU6E9ZHN6lw3SFry694Vg1A0iorX2hnQS1-6TlYP3POVXfYToQrtfX5LG4j8SiIkHU38L96wCCC-RjTl1tgR4de7w6Ibn7mMaLCmJminLQJr-TjEictDilRJNDnJvMvJ3i9WB9iqy-D5ir0r0g=.mp3" data-title="▁ ▂ ▃ ▅ ▆ █Ⓡ - ▁ ▂ ▃ ▅ ▆ █Ⓡ" data-artist="Gorillaz▁ ▂ ▃ ▅ ▆ █Ⓡ - ▁ ▂ ▃ ▅ ▆ █Ⓡ" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz%E2%96%81+%E2%96%82+%E2%96%83+%E2%96%85+%E2%96%86+%E2%96%88%E2%93%87+-+%E2%96%81+%E2%96%82+%E2%96%83+%E2%96%85+%E2%96%86+%E2%96%88%E2%93%87+-+%E2%96%81+%E2%96%82+%E2%96%83+%E2%96%85+%E2%96%86+%E2%96%88%E2%93%87+-+%E2%96%81+%E2%96%82+%E2%96%83+%E2%96%85+%E2%96%86+%E2%96%88%E2%93%87">
+		<div class="track-title nowrap">▁ ▂ ▃ ▅ ▆ █Ⓡ - ▁ ▂ ▃ ▅ ▆ █Ⓡ</div>
+		<div class="track-subtitle nowrap">Gorillaz▁ ▂ ▃ ▅ ▆ █Ⓡ - ▁ ▂ ▃ ▅ ▆ █Ⓡ</div>
+	</a>
+	<div class="track-time">04:30</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnkv8Eq-bQA2-lE0gibkyIpcNJFrTeMwqIoKvtc21yTjTd7jrEesMCNfTBBCnjfHoRbsEQUHawjMb_wz5gjsyeUghzM5sUwNor5-teIxIrRF0OzkftLpdBX_1F9MLOL1RYcfxQUU6E9ZHN6lw3SFry694Vg1A0iorX2hnQS1-6TlYP3POVXfYToQrtfX5LG4j8SiIkHU38L96wCCC-RjTl1tgR4de7w6Ibn7mMaLCmJminLQJr-TjEictDilRJNDnJvMvJ3i9WB9iqy-D5ir0r0g=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmm0TxEa2UQAa-lE0gibkyIpcNJFrTeMwqIoKvtc21yTjTd7jrEesMCNfTBBCnjfHoRbsEQUHawjMb_wz5gjsyeUghkJNiUzlF6aitTch8kgZvOmJ0iIpSDUb2YdsEIdsZHMb3VhwPdetrK6pFvyYeqLhIVl4J0CoFX1pmACZP2wdZDmHeYWC_a6gppfb1KApB9SuIiHct3rN-x1W0ix-rtV1KR65W9HeLUH6TH67CppWthZ8zr-TjEictDilRJP2qJfs6ZCGvWQglqSaWtSnruh8VEvuUqArRaRPxjM1ccpIvbcndUITAT3ucSnKI9LN00oS8A8rytwUsDYw=.mp3" data-title="GORILLAZ & REDMAN-Gorillaz On My Mind" data-artist="GORILLAZ & REDMAN" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/GORILLAZ+%26+REDMAN+-+GORILLAZ+%26+REDMAN-Gorillaz+On+My+Mind">
+		<div class="track-title nowrap">GORILLAZ & REDMAN-Gorillaz On My Mind</div>
+		<div class="track-subtitle nowrap">GORILLAZ & REDMAN</div>
+	</a>
+	<div class="track-time">04:31</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmm0TxEa2UQAa-lE0gibkyIpcNJFrTeMwqIoKvtc21yTjTd7jrEesMCNfTBBCnjfHoRbsEQUHawjMb_wz5gjsyeUghkJNiUzlF6aitTch8kgZvOmJ0iIpSDUb2YdsEIdsZHMb3VhwPdetrK6pFvyYeqLhIVl4J0CoFX1pmACZP2wdZDmHeYWC_a6gppfb1KApB9SuIiHct3rN-x1W0ix-rtV1KR65W9HeLUH6TH67CppWthZ8zr-TjEictDilRJP2qJfs6ZCGvWQglqSaWtSnruh8VEvuUqArRaRPxjM1ccpIvbcndUITAT3ucSnKI9LN00oS8A8rytwUsDYw=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmlkrxEK2DIFjTjXgMsoEGPKQnB1D5ZMcbB7ulhPWO3i3HYZzxE9AWC__3FyibmO_4QKsQX2_x-yE77CfavgMeXEkd85tyXTFRzorSbrlGrQxVGlxzurVYInamMM0eEtpbetz_XCAhe-YGNqUZoEJ-rIobVQdO6SEHWkJ9Qllf1T0hFGLzAV-mXrQ5t8fWCw4Z7ijtqm4N76B6_QeIigiHqUJdQrB2wHCdU2SCHZbQvYSc_b838urgDC87Ty9Ee-ajLfchJ2qtWhZhoiWYqynwsRhWLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" data-title="Gorillaz-Fell good inc." data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Gorillaz-Fell+good+inc.">
+		<div class="track-title nowrap">Gorillaz-Fell good inc.</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:44</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmlkrxEK2DIFjTjXgMsoEGPKQnB1D5ZMcbB7ulhPWO3i3HYZzxE9AWC__3FyibmO_4QKsQX2_x-yE77CfavgMeXEkd85tyXTFRzorSbrlGrQxVGlxzurVYInamMM0eEtpbetz_XCAhe-YGNqUZoEJ-rIobVQdO6SEHWkJ9Qllf1T0hFGLzAV-mXrQ5t8fWCw4Z7ijtqm4N76B6_QeIigiHqUJdQrB2wHCdU2SCHZbQvYSc_b838urgDC87Ty9Ee-ajLfchJ2qtWhZhoiWYqynwsRhWLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYhnkv8EKmUXWb9hGo7rJA9CJgFOkX7b8UjGKWuoOKG1jjOa7vGAc4AAMrtKzaFjfroQKsEVV_g4zoYxwTxiiQhYUwQkMh7Qhln2r7mYpB6oCxUAkREqLxGG3TOZ-EJOeFsf-7OQxw0bsRrP7t-qD1aq7RjcjhA6QAmc2YFKixV_gw8LW7Pf3uHecAIiuC_KwYW1h3OkWs-4KBLkCCooDSQvWpNO7tK70agTGOuBrXl6qaTtfc_7_HlDCIgGGVIZeahNbs-a3-8QRUjoWeQoHbwsxcZCcqRqADXLQvog9Jfc5l2KZ6dTd4=.mp3" data-title="Gorillaz" data-artist="Gorillaz - Clint Eastwood" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Clint+Eastwood+-+Gorillaz">
+		<div class="track-title nowrap">Gorillaz</div>
+		<div class="track-subtitle nowrap">Gorillaz - Clint Eastwood</div>
+	</a>
+	<div class="track-time">05:55</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYhnkv8EKmUXWb9hGo7rJA9CJgFOkX7b8UjGKWuoOKG1jjOa7vGAc4AAMrtKzaFjfroQKsEVV_g4zoYxwTxiiQhYUwQkMh7Qhln2r7mYpB6oCxUAkREqLxGG3TOZ-EJOeFsf-7OQxw0bsRrP7t-qD1aq7RjcjhA6QAmc2YFKixV_gw8LW7Pf3uHecAIiuC_KwYW1h3OkWs-4KBLkCCooDSQvWpNO7tK70agTGOuBrXl6qaTtfc_7_HlDCIgGGVIZeahNbs-a3-8QRUjoWeQoHbwsxcZCcqRqADXLQvog9Jfc5l2KZ6dTd4=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYgnUTxFqiaXWb9hGo7rJA9CJgFOkX7b8UjGKWuoOKG1jjOa7vGAc4AAMrtKzaFjfroQKsEVV_g4zoYxwTxiiQhYVsQk8lBDzpkxL2sUZZ6mR1oPGFFzLxkHGXwCeEJA_RsbunpRkQsd-5pM7VklzVqmYxNQyFv6QQRbmF7IllwhTIAMWLJbGTYVcM-jf_hOCgn-CjtlGschJFLyleopQ61u2pgZ5B3mEefdGe7BZ3bi6G-tfc_7_HlDCIgGGVPYP27OLsza366T1c_piKDumr-8hgQGvvcvACObhrqwM4UfI4vctWdVJWDTEvGRHuQuL1elIb3GYLy60UkU9ETAsYqw_Ji.mp3" data-title="Dirty Harry (Schtung Chinese New Year Remix) Gorillaz" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Dirty+Harry+%28Schtung+Chinese+New+Year+Remix%29+Gorillaz">
+		<div class="track-title nowrap">Dirty Harry (Schtung Chinese New Year Remix) Gorillaz</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:53</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYgnUTxFqiaXWb9hGo7rJA9CJgFOkX7b8UjGKWuoOKG1jjOa7vGAc4AAMrtKzaFjfroQKsEVV_g4zoYxwTxiiQhYVsQk8lBDzpkxL2sUZZ6mR1oPGFFzLxkHGXwCeEJA_RsbunpRkQsd-5pM7VklzVqmYxNQyFv6QQRbmF7IllwhTIAMWLJbGTYVcM-jf_hOCgn-CjtlGschJFLyleopQ61u2pgZ5B3mEefdGe7BZ3bi6G-tfc_7_HlDCIgGGVPYP27OLsza366T1c_piKDumr-8hgQGvvcvACObhrqwM4UfI4vctWdVJWDTEvGRHuQuL1elIb3GYLy60UkU9ETAsYqw_Ji.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnkXzFKeZRRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncv8NtKTBZHxYHdTaxJiDlgHkdPmbZIeWWmCsUBCeoTZsnjRSAfUdVyC6VHoyFmrYB6ORxp5hs0eV5HRD4piS8yCA7ibGikbKE0jeDbFA5F0xDetFcS4IJD_SCgh0itoUE0f7VG9W2TQ2icFZWThoGxlYF35-z-CSItAzIGbuC9KPo3a3blB0Nh93rH_ynqsA4UEP3QowGOchrwhM8uNZtndJ2ESIPLBUrRWT7StLcy.mp3" data-title="Gorillaz / 19-2000 (Soulchild Remix)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Gorillaz+_+19-2000+%28Soulchild+Remix%29">
+		<div class="track-title nowrap">Gorillaz / 19-2000 (Soulchild Remix)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:27</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnkXzFKeZRRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncv8NtKTBZHxYHdTaxJiDlgHkdPmbZIeWWmCsUBCeoTZsnjRSAfUdVyC6VHoyFmrYB6ORxp5hs0eV5HRD4piS8yCA7ibGikbKE0jeDbFA5F0xDetFcS4IJD_SCgh0itoUE0f7VG9W2TQ2icFZWThoGxlYF35-z-CSItAzIGbuC9KPo3a3blB0Nh93rH_ynqsA4UEP3QowGOchrwhM8uNZtndJ2ESIPLBUrRWT7StLcy.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnEnwGKqbRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncj8MFycxJW0rPNWqp0rnphNGYUpaJbfn6mBoceJMRQcsj_eTgQUchpMapeuDJ2kYVHT1xe6y4wYztYBAlh4C4mFWTqakOvc700pN7sFApE4ybrsFIg76xFlQmQgTKxgl00SZd9-W2IVHmAN5PZhoWwh-x35-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQGOYhP4h9NcL6MqZ9WEEJnbRUGaQ3KI8OlszNI=.mp3" data-title="Gorillaz On My Mind(Блэйд 2)" data-artist="Gorillaz & Redman" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+%26+Redman+-+Gorillaz+On+My+Mind%28%D0%91%D0%BB%D1%8D%D0%B9%D0%B4+2%29">
+		<div class="track-title nowrap">Gorillaz On My Mind(Блэйд 2)</div>
+		<div class="track-subtitle nowrap">Gorillaz & Redman</div>
+	</a>
+	<div class="track-time">04:30</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnEnwGKqbRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncj8MFycxJW0rPNWqp0rnphNGYUpaJbfn6mBoceJMRQcsj_eTgQUchpMapeuDJ2kYVHT1xe6y4wYztYBAlh4C4mFWTqakOvc700pN7sFApE4ybrsFIg76xFlQmQgTKxgl00SZd9-W2IVHmAN5PZhoWwh-x35-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQGOYhP4h9NcL6MqZ9WEEJnbRUGaQ3KI8OlszNI=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnEX1F6qfRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXndE89J5WgYIyMvFb6hIonlmNmVMqZxiPmrCEcIWNNhQcuOuZRIfWc5aCM4duBpim7RsaSZu5joOeEF-GQlf5yMyCA6pWniRQZMXp-DCFG4bzzjJvmUT2o1ClSyrgz2HoXJvOrZpk2mTQ3uyIYrnnvaPuIF35-z-CSItAzIGZaKuLPkueCGtRQ5hsCTaoG3quhoNXufcrQDPbBqwitgDdJBuYcrdT4jDQlzrBXCZrep1yY_3Q8Hj6gJvEM9F.mp3" data-title="L'Amour Est un Oiseau Rebelle (Gorillaz Remix)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+L_Amour+Est+un+Oiseau+Rebelle+%28Gorillaz+Remix%29">
+		<div class="track-title nowrap">L'Amour Est un Oiseau Rebelle (Gorillaz Remix)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:19</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmnEX1F6qfRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXndE89J5WgYIyMvFb6hIonlmNmVMqZxiPmrCEcIWNNhQcuOuZRIfWc5aCM4duBpim7RsaSZu5joOeEF-GQlf5yMyCA6pWniRQZMXp-DCFG4bzzjJvmUT2o1ClSyrgz2HoXJvOrZpk2mTQ3uyIYrnnvaPuIF35-z-CSItAzIGZaKuLPkueCGtRQ5hsCTaoG3quhoNXufcrQDPbBqwitgDdJBuYcrdT4jDQlzrBXCZrep1yY_3Q8Hj6gJvEM9F.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmmE30EKqURhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYyl-x5W20NzqznbalGuj5WaU9Urp5IF2n4FdsDJr9TTfP_XTpoGZFoM7lBjxlcybNudT9f5QgKeF9qNz933RwnJ2DtakONUpA5p__rEw4DzyrjgWQVhLlazl-rmEmMlUpCWqhr93G_TB6-CI_1nomCv5F35-z-CSItAzIGf_zhbPQ-ZiGpWxU5t2eQoHbwsxcZCbjPvEuOaxDuhdIUc9FxddmTVInLBkndVTqJt7Vk0ITzHsriwQMmGMtbAppqy6w_S8rLRUexcg==.mp3" data-title="GORILLAZ vs. KOSHEEN (Suicide mix unreleased)" data-artist="GORILLAZ VS. BEL AMOUR" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/GORILLAZ+VS.+BEL+AMOUR+-+GORILLAZ+vs.+KOSHEEN+%28Suicide+mix+unreleased%29">
+		<div class="track-title nowrap">GORILLAZ vs. KOSHEEN (Suicide mix unreleased)</div>
+		<div class="track-subtitle nowrap">GORILLAZ VS. BEL AMOUR</div>
+	</a>
+	<div class="track-time">04:03</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmmE30EKqURhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYyl-x5W20NzqznbalGuj5WaU9Urp5IF2n4FdsDJr9TTfP_XTpoGZFoM7lBjxlcybNudT9f5QgKeF9qNz933RwnJ2DtakONUpA5p__rEw4DzyrjgWQVhLlazl-rmEmMlUpCWqhr93G_TB6-CI_1nomCv5F35-z-CSItAzIGf_zhbPQ-ZiGpWxU5t2eQoHbwsxcZCbjPvEuOaxDuhdIUc9FxddmTVInLBkndVTqJt7Vk0ITzHsriwQMmGMtbAppqy6w_S8rLRUexcg==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmmU32F6mcSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXndExvxLXQ4JxZfSeakvnBxNamFuno0-fmfMAoUHQ-ESZZTjJyBpZ_VrII9DvBlAtrBFaTdb5zoNeV5UGj5f8z8_bU7SYR6rKJY6tNXsOisn0RLVg0g-88RDzjOQmC3X23Q2OpJxkFOVQ0acN7rIipSCkat35-z-CSItAzIGe-qrLPc1Jz3xG0h89XraqGvrthcUEu-UoAuObQawgN4fedFrbsOET5jDTkrATHuj8aBkyMzmGMHjsEUkCZZYG583.mp3" data-title="19-2000 / Gorillaz On My Mind (instrumental)" data-artist="Gorillaz & Redman" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+%26+Redman+-+19-2000+_+Gorillaz+On+My+Mind+%28instrumental%29">
+		<div class="track-title nowrap">19-2000 / Gorillaz On My Mind (instrumental)</div>
+		<div class="track-subtitle nowrap">Gorillaz & Redman</div>
+	</a>
+	<div class="track-time">04:28</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmmU32F6mcSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXndExvxLXQ4JxZfSeakvnBxNamFuno0-fmfMAoUHQ-ESZZTjJyBpZ_VrII9DvBlAtrBFaTdb5zoNeV5UGj5f8z8_bU7SYR6rKJY6tNXsOisn0RLVg0g-88RDzjOQmC3X23Q2OpJxkFOVQ0acN7rIipSCkat35-z-CSItAzIGe-qrLPc1Jz3xG0h89XraqGvrthcUEu-UoAuObQawgN4fedFrbsOET5jDTkrATHuj8aBkyMzmGMHjsEUkCZZYG583.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmlkz2F62bQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYxztxLchpl_b3dUK1Kug1XDktjnrREeWP5P90dGdR1ffejJSUyaJNtIK1ltC9qo7VhQyhb2QALYU9iJz9M2QAyNgKrb3jQaqg4p9XqPgZG2BWAjWUW74NDzyCxrj2lpklQTZV28gaxUh-6U7rlmpWGvol35-z-CSItAzIGObviL_MsJ2utWBMjsDnarXb2qxMdAbjeoBfKbBP8l5pDLcwzX5iXWJmDX1HaSDmSvLMokoziXg==.mp3" data-title="04 - New Genious (Brother) (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+04+-+New+Genious+%28Brother%29+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">04 - New Genious (Brother) (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:58</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYmlkz2F62bQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYxztxLchpl_b3dUK1Kug1XDktjnrREeWP5P90dGdR1ffejJSUyaJNtIK1ltC9qo7VhQyhb2QALYU9iJz9M2QAyNgKrb3jQaqg4p9XqPgZG2BWAjWUW74NDzyCxrj2lpklQTZV28gaxUh-6U7rlmpWGvol35-z-CSItAzIGObviL_MsJ2utWBMjsDnarXb2qxMdAbjeoBfKbBP8l5pDLcwzX5iXWJmDX1HaSDmSvLMokoziXg==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYml0r9EaeUQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw-MN8Bh54y5brWKxZon1mDWVIqOt6JmX4GeEbJdhzfMjrZSEAe9FuV7JToBpqjbBEZR9bgQAzZVFfRCVO_2M6Ng_wXWivWag5q5zBPxUezxTa9l8vwZhA7SCSnRClgkNqf6tp5leJTHjnKL31lo-Yu-B35-z-CSItAzIGe-riKfcoYiH5D0N16C2YvW31sxoCLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" data-title="Re-Hash [1999 - Gorillaz]" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Re-Hash+%5B1999+-+Gorillaz%5D">
+		<div class="track-title nowrap">Re-Hash [1999 - Gorillaz]</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:38</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYml0r9EaeUQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw-MN8Bh54y5brWKxZon1mDWVIqOt6JmX4GeEbJdhzfMjrZSEAe9FuV7JToBpqjbBEZR9bgQAzZVFfRCVO_2M6Ng_wXWivWag5q5zBPxUezxTa9l8vwZhA7SCSnRClgkNqf6tp5leJTHjnKL31lo-Yu-B35-z-CSItAzIGe-riKfcoYiH5D0N16C2YvW31sxoCLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYln030EKifQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncj9OlLXyBJya7od7VLwQ5iDmFQn7NlfX7DFsEfQbd7ZuLrfywAScxlVKUfuEVLyYB-TzRp9S4JZF9qNT9M-xs5J3DqaR6nSqYp2J3ZLmZA4xLrv0k7jcVYyQ6OmT_W2140f7Fz6XWyQ3rvMoHZlq-xvLt35-z-CSItAzIGbuC9KPo3a3blUR846D6fqin6sBQUXubRoACOcxf0g9Jce5VkYZ3CDd2cBkvHWUjUvqJ1kZXnA8qo8E41VJEbBtw=.mp3" data-title="Gorillaz - Get the cool shoe shine (FIFA 2002 ost)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Gorillaz+-+Get+the+cool+shoe+shine+%28FIFA+2002+ost%29">
+		<div class="track-title nowrap">Gorillaz - Get the cool shoe shine (FIFA 2002 ost)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:32</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYln030EKifQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncj9OlLXyBJya7od7VLwQ5iDmFQn7NlfX7DFsEfQbd7ZuLrfywAScxlVKUfuEVLyYB-TzRp9S4JZF9qNT9M-xs5J3DqaR6nSqYp2J3ZLmZA4xLrv0k7jcVYyQ6OmT_W2140f7Fz6XWyQ3rvMoHZlq-xvLt35-z-CSItAzIGbuC9KPo3a3blUR846D6fqin6sBQUXubRoACOcxf0g9Jce5VkYZ3CDd2cBkvHWUjUvqJ1kZXnA8qo8E41VJEbBtw=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlnUX1GaucSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw75tyWzh6xsnsMqp0rgtQHktosoBiF2bSO4YWQboVSpbRUxQidNZeC5tCoQ1it7VDWz1t-w93e09-PiZ15xE_GFWoW0erXbwFldvZEwpG20zRkVVL461B4h6fmT2I20ZBf6h9z0-TUh-fH5fnuJqYhLN35-z-CSItAzIGObfiMvkuZGjlVRIppiHaqHb4qRIMCrjeoBfKbBP8l5pDLcwzX5iXWJmDX1HaSDmSvLMokoziXg==.mp3" data-title="08 - Sound Check (Gravity) (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+08+-+Sound+Check+%28Gravity%29+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">08 - Sound Check (Gravity) (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:41</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlnUX1GaucSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw75tyWzh6xsnsMqp0rgtQHktosoBiF2bSO4YWQboVSpbRUxQidNZeC5tCoQ1it7VDWz1t-w93e09-PiZ15xE_GFWoW0erXbwFldvZEwpG20zRkVVL461B4h6fmT2I20ZBf6h9z0-TUh-fH5fnuJqYhLN35-z-CSItAzIGObfiMvkuZGjlVRIppiHaqHb4qRIMCrjeoBfKbBP8l5pDLcwzX5iXWJmDX1HaSDmSvLMokoziXg==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlnUX1GaufQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw75tyWzh6xsnsMqp0rgtQHktosoBiF2bSO4YWQuZUeZfRJCczRfZeIZduvhl2krh9bTRrggM5VEFyETpIiSwIbw-udkC_KKcot-nCIQkl2yrV9UsvjIVXyzC3h0mhh3Nve5B190-JVHiPHozmlpC34ZF35-z-CSItAzIGeuC6L_J2aWStVRFhojiWuW3tplZJSqyA4gLMchbxgdYLQtRlZcTdSZjATgraSGPV96pxjw==.mp3" data-title="Sound Check (Gravity) [1999 - Gorillaz]" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Sound+Check+%28Gravity%29+%5B1999+-+Gorillaz%5D">
+		<div class="track-title nowrap">Sound Check (Gravity) [1999 - Gorillaz]</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:39</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlnUX1GaufQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw75tyWzh6xsnsMqp0rgtQHktosoBiF2bSO4YWQuZUeZfRJCczRfZeIZduvhl2krh9bTRrggM5VEFyETpIiSwIbw-udkC_KKcot-nCIQkl2yrV9UsvjIVXyzC3h0mhh3Nve5B190-JVHiPHozmlpC34ZF35-z-CSItAzIGeuC6L_J2aWStVRFhojiWuW3tplZJSqyA4gLMchbxgdYLQtRlZcTdSZjATgraSGPV96pxjw==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmk32E66VSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncj8MJxZW16xpHGea9WriRNa211qpBYNX3QGe4VJ-pYSuPNYyUQaJJwI5N9u0R-l7ZtVwJ2gSYyZVFYNCVOwmU9JA_ibByGK6dOgtrdLBkE5xL_l2IU-6Zd8jCWrT6ilnI0RbR1-WXxS3iQPYL2uIyxvrd35-z-CSItAzIGbuC9KPo3a3blUB8pqWeQoGv98hIWEPrLvwrRYQv4iehZepl2LcSFU4iARUHABDmRqfQ=.mp3" data-title="Gorillaz - Feel Good Incorporated" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Gorillaz+-+Feel+Good+Incorporated">
+		<div class="track-title nowrap">Gorillaz - Feel Good Incorporated</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:40</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmk32E66VSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncj8MJxZW16xpHGea9WriRNa211qpBYNX3QGe4VJ-pYSuPNYyUQaJJwI5N9u0R-l7ZtVwJ2gSYyZVFYNCVOwmU9JA_ibByGK6dOgtrdLBkE5xL_l2IU-6Zd8jCWrT6ilnI0RbR1-WXxS3iQPYL2uIyxvrd35-z-CSItAzIGbuC9KPo3a3blUB8pqWeQoGv98hIWEPrLvwrRYQv4iehZepl2LcSFU4iARUHABDmRqfQ=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2eQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJtxlTfPJZS8zVtdeIb1suiNpjLVuaSVZ3lxwZTkFKT526GcmbQfPa0GNT6Qko-HVPxoD4yr7iWIu74RY_SzSnzyhvUlvY-1p5Xb0T2icCILmpLmHl5135-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQH8KBj4mZoFaJJnLt6VScSARlSH.mp3" data-title="Gorillaz On My Mind" data-artist="Gorillaz & Redman" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+%26+Redman+-+Gorillaz+On+My+Mind">
+		<div class="track-title nowrap">Gorillaz On My Mind</div>
+		<div class="track-subtitle nowrap">Gorillaz & Redman</div>
+	</a>
+	<div class="track-time">04:30</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2eQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJtxlTfPJZS8zVtdeIb1suiNpjLVuaSVZ3lxwZTkFKT526GcmbQfPa0GNT6Qko-HVPxoD4yr7iWIu74RY_SzSnzyhvUlvY-1p5Xb0T2icCILmpLmHl5135-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQH8KBj4mZoFaJJnLt6VScSARlSH.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2eRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJ-JSZuzdUSc0b5RxIZN4uA12tLZFbhR05jYvYUxICglh_GImHg_edkGnT785u_TbLisZ0TnVsFAvgIZc8h6lghaLuUo2OpZ-5nmOTx-iIbvPs7qMhJ135-z-CSItAzIGbuC9KPo3a3blWRRhqDPaom33u1YeFvTN4UjRZRvwjNlcf5BjZNXdD7KGTEHAAGOJt6Iv0oTmRIHr7hg=.mp3" data-title="Gorillaz on My Mind (feat. Redman) [Blade 2]" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Gorillaz+on+My+Mind+%28feat.+Redman%29+%5BBlade+2%5D">
+		<div class="track-title nowrap">Gorillaz on My Mind (feat. Redman) [Blade 2]</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:30</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2eRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJ-JSZuzdUSc0b5RxIZN4uA12tLZFbhR05jYvYUxICglh_GImHg_edkGnT785u_TbLisZ0TnVsFAvgIZc8h6lghaLuUo2OpZ-5nmOTx-iIbvPs7qMhJ135-z-CSItAzIGbuC9KPo3a3blWRRhqDPaom33u1YeFvTN4UjRZRvwjNlcf5BjZNXdD7KGTEHAAGOJt6Iv0oTmRIHr7hg=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2YRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJNxAcZaiTCIfRepuD61ZuSBIsbUaTF5e5T4BeV4JNTF22i4ICEKrbh-RX6ARke_tMRE5yU6AgUku0cFbljy0rxGThHE3TZdwkUuzfVeMMor0mpaEhJ135-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQGOYhP8idJcdJUvb8OEYsXJTlCZWWKSvOlv2ZW7Q8L2rQ==.mp3" data-title="Gorillaz On My Mind (Blade II OST)" data-artist="Gorillaz & Redman" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+%26+Redman+-+Gorillaz+On+My+Mind+%28Blade+II+OST%29">
+		<div class="track-title nowrap">Gorillaz On My Mind (Blade II OST)</div>
+		<div class="track-subtitle nowrap">Gorillaz & Redman</div>
+	</a>
+	<div class="track-time">04:29</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2YRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJNxAcZaiTCIfRepuD61ZuSBIsbUaTF5e5T4BeV4JNTF22i4ICEKrbh-RX6ARke_tMRE5yU6AgUku0cFbljy0rxGThHE3TZdwkUuzfVeMMor0mpaEhJ135-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQGOYhP8idJcdJUvb8OEYsXJTlCZWWKSvOlv2ZW7Q8L2rQ==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2ZRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJNRofc3vfzpqc-RxH7FgoUViiYAaQ1hY6yYWVDhUISZh8xo5C2zTYUOzSqZPjc3VAxk-zDj_9E1IwZptyBLWghHW3l9RSe9A4gb2e3qDUo_ntI2Yh4135-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQH8KBj4mZoFaJJnLt6VScSARlSH.mp3" data-title="Gorillaz on My Mind" data-artist="Gorillaz/Redman" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz_Redman+-+Gorillaz+on+My+Mind">
+		<div class="track-title nowrap">Gorillaz on My Mind</div>
+		<div class="track-subtitle nowrap">Gorillaz/Redman</div>
+	</a>
+	<div class="track-time">04:29</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlm0z0FK2ZRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlYSxN_6PJULZLyThQaDBrmJ9PN2GnP4MVJNRofc3vfzpqc-RxH7FgoUViiYAaQ1hY6yYWVDhUISZh8xo5C2zTYUOzSqZPjc3VAxk-zDj_9E1IwZptyBLWghHW3l9RSe9A4gb2e3qDUo_ntI2Yh4135-z-CSItAzIGe-qrLPc1J2unRBMgqSuN4mv38hYBXvjQoQH8KBj4mZoFaJJnLt6VScSARlSH.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmE_1Ea-fRBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncN9OhKBxUMyZHdTqlargVZNEsTmbViFlOmCc8eCeZWfs_NfCMcd-1tVcYbjBtAo7tDVyt0yToGbHNxBjIr-2YmN13vW3jQUrw0s5zcSSdH2CvJlmRJ0aNXlgqOgha1pXVua4d29EewTnu1H730lfeEhp135-z-CSItAzIGOL_iM_k4YSG8Xh9hrSWCvGG0uBQKGvnVrh-OMk-t3OhZepl2LcSFU4iARUHABDmRqfQ=.mp3" data-title="10 - Rock the House (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+10+-+Rock+the+House+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">10 - Rock the House (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:09</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmE_1Ea-fRBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncN9OhKBxUMyZHdTqlargVZNEsTmbViFlOmCc8eCeZWfs_NfCMcd-1tVcYbjBtAo7tDVyt0yToGbHNxBjIr-2YmN13vW3jQUrw0s5zcSSdH2CvJlmRJ0aNXlgqOgha1pXVua4d29EewTnu1H730lfeEhp135-z-CSItAzIGOL_iM_k4YSG8Xh9hrSWCvGG0uBQKGvnVrh-OMk-t3OhZepl2LcSFU4iARUHABDmRqfQ=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmE_1Ea-YRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncN9OhKBxUMyZHdTqlargVZNEsTmbViFlOmCc8eQ78XccrwbTtoTdBcI49EvhxijYAaWFtv9y4Fb2QEQjxM_xk-b2DoYnjRK6Y0p_rCPzdB5yrrv1IW55ls8FOkr0qXpXRqRehB5HGKSkbvDJSRtI6EuJF35-z-CSItAzIGe-CsKrsvYmnlXhU5ti_aqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" data-title="Rock the House (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Rock+the+House+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">Rock the House (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:09</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmE_1Ea-YRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncN9OhKBxUMyZHdTqlargVZNEsTmbViFlOmCc8eQ78XccrwbTtoTdBcI49EvhxijYAaWFtv9y4Fb2QEQjxM_xk-b2DoYnjRK6Y0p_rCPzdB5yrrv1IW55ls8FOkr0qXpXRqRehB5HGKSkbvDJSRtI6EuJF35-z-CSItAzIGe-CsKrsvYmnlXhU5ti_aqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmETyEqyVShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw8Px7BxZF_pb0MZgsrTpnHWFUn-tAN2X_a80WGdRufcjzRSdrUeNtIMpljBpYtLVuUBZY9ggSbE9-CA1OxSQKGGOsYnWrXJM0gtXVLzci5xLzlGUW0sdUzyyQmS3avEVTRuxq-Xm_ex2yDLvmmoSPh5135-z-CSItAzIGeuOgNrs4ZXmmQgg16HvO9j20uBQKGvnVrh_8KBj4mZoFaJJnLt6VScSARlSH.mp3" data-title="Slow Country [1999 - Gorillaz]" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Slow+Country+%5B1999+-+Gorillaz%5D">
+		<div class="track-title nowrap">Slow Country [1999 - Gorillaz]</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:35</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmETyEqyVShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw8Px7BxZF_pb0MZgsrTpnHWFUn-tAN2X_a80WGdRufcjzRSdrUeNtIMpljBpYtLVuUBZY9ggSbE9-CA1OxSQKGGOsYnWrXJM0gtXVLzci5xLzlGUW0sdUzyyQmS3avEVTRuxq-Xm_ex2yDLvmmoSPh5135-z-CSItAzIGeuOgNrs4ZXmmQgg16HvO9j20uBQKGvnVrh_8KBj4mZoFaJJnLt6VScSARlSH.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmUnwF6efQhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw0tNJWx1PzpbzdJ9Ni3hQakdHmbJEOGLcO8AWQupOTfL_YDhoVeNqDrlztBt1jYBhaTdog1lzYFxIOQpcyS4kG0bVdUONd5Y7jeDbSjMk1RfNsEhI_6VqyRagmUmIlklTWqdBzXGPe3iQUrmRsK-Pv6t35-z-CSItAzIGOL7icK92ODz4Blcrqjieo2j4pVZKQ6WIkE3EZQuwmcIfeNJsZcTZE4DeGA==.mp3" data-title="11 - 19-2000 (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+11+-+19-2000+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">11 - 19-2000 (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:27</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmUnwF6efQhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnYw0tNJWx1PzpbzdJ9Ni3hQakdHmbJEOGLcO8AWQupOTfL_YDhoVeNqDrlztBt1jYBhaTdog1lzYFxIOQpcyS4kG0bVdUONd5Y7jeDbSjMk1RfNsEhI_6VqyRagmUmIlklTWqdBzXGPe3iQUrmRsK-Pv6t35-z-CSItAzIGOL7icK92ODz4Blcrqjieo2j4pVZKQ6WIkE3EZQuwmcIfeNJsZcTZE4DeGA==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmUT2EKaYRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncg2u9-WB5207PRapharXxUDGFPpbVlf2buBdwoO9RyefDzeyMAZ_ByIKl5iTNqy7NCaQRg5yIie2JqAyVh6CQkG16tcx6ZLqcWo8PALREy0QTrgVIT2b5r8leLgRaHpXNRWapwzWmzeByYK42R6LGYuZF35-z-CSItAzIGbuC9KPo3a3blUB8pqWeQoGv98h8SXufYoUjHalLrhNMEaZ0vctWdVJXxA0PRWTqIrKlkko_3GYao81ty.mp3" data-title="Gorillaz - Feel Good (DJ Ran & Dj Viduta Remix)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Gorillaz+-+Feel+Good+%28DJ+Ran+%26+Dj+Viduta+Remix%29">
+		<div class="track-title nowrap">Gorillaz - Feel Good (DJ Ran & Dj Viduta Remix)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">05:41</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYlmUT2EKaYRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncg2u9-WB5207PRapharXxUDGFPpbVlf2buBdwoO9RyefDzeyMAZ_ByIKl5iTNqy7NCaQRg5yIie2JqAyVh6CQkG16tcx6ZLqcWo8PALREy0QTrgVIT2b5r8leLgRaHpXNRWapwzWmzeByYK42R6LGYuZF35-z-CSItAzIGbuC9KPo3a3blUB8pqWeQoGv98h8SXufYoUjHalLrhNMEaZ0vctWdVJXxA0PRWTqIrKlkko_3GYao81ty.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0rxF66VSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlfgJz0a_aNa9Lvh5hM1wWnZ9YLmXtav8dH9hVfPGiQRRpSdltH5twvCNmlbgbRyxb9Qg1Y09YJjtwiD0mGk7JdXusYZEGsNXqLBE2206Av0gvjKNvyxa_rQCxhnFRZ6dA5HGGSh6DVbzIlpuahJl35-z-CSItAzIGbuC9KPo3a3blRB86qiaBpmr-8h8XHOfKkE3EZQuwmcIfeNJsZcTZE4DeGA==.mp3" data-title="Gorillaz - Revolving Doors" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Gorillaz+-+Revolving+Doors">
+		<div class="track-title nowrap">Gorillaz - Revolving Doors</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:26</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0rxF66VSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXncal-BlfgJz0a_aNa9Lvh5hM1wWnZ9YLmXtav8dH9hVfPGiQRRpSdltH5twvCNmlbgbRyxb9Qg1Y09YJjtwiD0mGk7JdXusYZEGsNXqLBE2206Av0gvjKNvyxa_rQCxhnFRZ6dA5HGGSh6DVbzIlpuahJl35-z-CSItAzIGbuC9KPo3a3blRB86qiaBpmr-8h8XHOfKkE3EZQuwmcIfeNJsZcTZE4DeGA==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEayVRRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnca5J9jBDh--ZDFSq0tqXpNa0N-rY1AOmbMGdstNMBPffLeJhQ1WeVlD7FfjhxiuLNuUyJb3z4RUk5qCQxP4ywOMAfUbkO_VqESq5ncPmZH2E7v9mJJ749D4yTXrheXp0U3XY5wzXGvfXiQE4LmhoG2lat35-z-CSItAzIGefqhKrs8ZX6hWhYtv2fF_zSogFMfFuGUuxDNZVHziMNYM5FyMw==.mp3" data-title="Punk (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Punk+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">Punk (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">01:36</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEayVRRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnca5J9jBDh--ZDFSq0tqXpNa0N-rY1AOmbMGdstNMBPffLeJhQ1WeVlD7FfjhxiuLNuUyJb3z4RUk5qCQxP4ywOMAfUbkO_VqESq5ncPmZH2E7v9mJJ749D4yTXrheXp0U3XY5wzXGvfXiQE4LmhoG2lat35-z-CSItAzIGefqhKrs8ZX6hWhYtv2fF_zSogFMfFuGUuxDNZVHziMNYM5FyMw==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2cQxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK9dTfvPvfhMNWfRuCMZsuyNmv4V_SzxsgCoiVztcNjxe4GQPCGTeb3ivU6MR0ObZPBEE4zbjqFQC0YJZ4QKrlkixp3RDWbZz53GoTnihH731jq6al5F35-z-CSItAzIGObbiJfkuaGCtGxgttjnaqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" data-title="09 - Double Bass (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+09+-+Double+Bass+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">09 - Double Bass (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:45</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2cQxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK9dTfvPvfhMNWfRuCMZsuyNmv4V_SzxsgCoiVztcNjxe4GQPCGTeb3ivU6MR0ObZPBEE4zbjqFQC0YJZ4QKrlkixp3RDWbZz53GoTnihH731jq6al5F35-z-CSItAzIGObbiJfkuaGCtGxgttjnaqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2cRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-ZTfsnKJTsfa_BoNsZziCNuqrN9WF9t3Q8xVFF9AjJ18Gc_bFHgWXWnQ79No83YPxUc2CjVkVQs54NtzijUmCytonN-ZO5923K8V3riH5XZjqubueB35-z-CSItAzIGOL3iLfcvY2LlRRMhqiSS4nXsulYIEubY4gbMbgv0ithcepNwadycXJeDGRSEHEjUvqJ1kZXnA8qo8E41VJEbBtw=.mp3" data-title="12 - Latin Simone(Que Pasa Contigo) (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+12+-+Latin+Simone%28Que+Pasa+Contigo%29+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">12 - Latin Simone(Que Pasa Contigo) (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:36</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2cRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-ZTfsnKJTsfa_BoNsZziCNuqrN9WF9t3Q8xVFF9AjJ18Gc_bFHgWXWnQ79No83YPxUc2CjVkVQs54NtzijUmCytonN-ZO5923K8V3riH5XZjqubueB35-z-CSItAzIGOL3iLfcvY2LlRRMhqiSS4nXsulYIEubY4gbMbgv0ithcepNwadycXJeDGRSEHEjUvqJ1kZXnA8qo8E41VJEbBtw=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dQxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK8hle97BdRVob8lxIod-vhl-lbJHaV9e3yYLV11qRCdT5zk9bWTxbHW7S6YSr_jsLAkk0T2B9lAS2bZd7S-fnyK1nF1vd6Zp9lDxTB6EPrnmhpmPhoF35-z-CSItAzIGObriIvoyZHjlUxs_sT2YoGC0uBQKGvnVrh-OMk-t3OhZepl2LcSFU4iARUHABDmRqfQ=.mp3" data-title="05 - Clint Eastwood (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+05+-+Clint+Eastwood+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">05 - Clint Eastwood (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">05:42</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dQxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK8hle97BdRVob8lxIod-vhl-lbJHaV9e3yYLV11qRCdT5zk9bWTxbHW7S6YSr_jsLAkk0T2B9lAS2bZd7S-fnyK1nF1vd6Zp9lDxTB6EPrnmhpmPhoF35-z-CSItAzIGObriIvoyZHjlUxs_sT2YoGC0uBQKGvnVrh-OMk-t3OhZepl2LcSFU4iARUHABDmRqfQ=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJLcUSvP8JBcQb-VtI5dEjCBfg4VFSxdp9CZze0x2PCMpgCIxb1LpYmjQYbxPt-bZFy9B4TvzhGRI0YZvlRXUlUqTpF1SZ6Zx932DTGuAPbnnlrqPh-x35-z-CSItAzIGOLviMvo0fSGrWQ8isTiO4mP2rRIUH_TD4leTME7CxdAUadF2dd6VE4PLXw2aQGfP.mp3" data-title="14 - Slow Country (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+14+-+Slow+Country+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">14 - Slow Country (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:37</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJLcUSvP8JBcQb-VtI5dEjCBfg4VFSxdp9CZze0x2PCMpgCIxb1LpYmjQYbxPt-bZFy9B4TvzhGRI0YZvlRXUlUqTpF1SZ6Zx932DTGuAPbnnlrqPh-x35-z-CSItAzIGOLviMvo0fSGrWQ8isTiO4mP2rRIUH_TD4leTME7CxdAUadF2dd6VE4PLXw2aQGfP.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dRBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJ9xIZd3vISVqSftwMMpnvBx5z7UaWz1bgT4peE16Jj1d1Tg8C3TMYUeCKqY6p5rcLGov1BDviVIU44xf3w62nj-ToF41Raty5m68Q2WyMouTrLKwh6t35-z-CSItAzIGOLbic6ZrOiGvWQglqSaWtSmr70tJLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" data-title="19-2000 (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+19-2000+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">19-2000 (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:22</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dRBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJ9xIZd3vISVqSftwMMpnvBx5z7UaWz1bgT4peE16Jj1d1Tg8C3TMYUeCKqY6p5rcLGov1BDviVIU44xf3w62nj-ToF41Raty5m68Q2WyMouTrLKwh6t35-z-CSItAzIGOLbic6ZrOiGvWQglqSaWtSmr70tJLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJ-oXfvHzfCc0SZdbVrVbuyBUs7R_Qxhf3T4OeExUCSMqwQAPBXTfW2qFUKsV2dvcLRUH1Tjj8FQ9_79fzhaTqD6IlkZRfOt9ylj0SnqDV5Xw5au2mol35-z-CSItAzIGObniLPc1J36tRR8ttymf4mf1vgsIFueUqArRaRPxjM1cL8wyMe_YWojaBlDBQ3LSt6J1lc__HZw=.mp3" data-title="06 - Man Research (Clapper) (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+06+-+Man+Research+%28Clapper%29+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">06 - Man Research (Clapper) (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:32</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2dShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJ-oXfvHzfCc0SZdbVrVbuyBUs7R_Qxhf3T4OeExUCSMqwQAPBXTfW2qFUKsV2dvcLRUH1Tjj8FQ9_79fzhaTqD6IlkZRfOt9ylj0SnqDV5Xw5au2mol35-z-CSItAzIGObniLPc1J36tRR8ttymf4mf1vgsIFueUqArRaRPxjM1cL8wyMe_YWojaBlDBQ3LSt6J1lc__HZw=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2eRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-1TTePBbiMzWe5mMqVIvER2vbBEbRdY9zU6Y1xUGTlM9z8PMGDtYXuNaKBMt-HuFDse1hXzv1I83cRB8Qqsgj-XtV00Opdx9lPxeGrvJZXlhrGB4Yl35-z-CSItAzIGOLziMuI6eH-gXxQp6C2YvW31sxoCXqeJ_1T8KBj4mZoFaJJnLt6VScSARlSH.mp3" data-title="13 - Starshine (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+13+-+Starshine+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">13 - Starshine (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:31</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2eRhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-1TTePBbiMzWe5mMqVIvER2vbBEbRdY9zU6Y1xUGTlM9z8PMGDtYXuNaKBMt-HuFDse1hXzv1I83cRB8Qqsgj-XtV00Opdx9lPxeGrvJZXlhrGB4Yl35-z-CSItAzIGOLziMuI6eH-gXxQp6C2YvW31sxoCXqeJ_1T8KBj4mZoFaJJnLt6VScSARlSH.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2eRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJr9RcuD3dRIye5VpM6kZujJpybJsRBZv-z4aU19xQjJYiCUPBV7QdmidWaUXt8XVFTs-1xXrskk_gcVtlhaUqD-6lXNvOo1vkQrxTx_vLI7Nlo-HlYl35-z-CSItAzIGObziNfk2ZX66WQ1hpiWaqne0qxQcEuyUqArRaRPxjM1cL8wyMe_YWojaBlDBQ3LSt6J1lc__HZw=.mp3" data-title="03 - Tomorrow Comes Today (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+03+-+Tomorrow+Comes+Today+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">03 - Tomorrow Comes Today (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:12</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2eRxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJr9RcuD3dRIye5VpM6kZujJpybJsRBZv-z4aU19xQjJYiCUPBV7QdmidWaUXt8XVFTs-1xXrskk_gcVtlhaUqD-6lXNvOo1vkQrxTx_vLI7Nlo-HlYl35-z-CSItAzIGObziNfk2ZX66WQ1hpiWaqne0qxQcEuyUqArRaRPxjM1cL8wyMe_YWojaBlDBQ3LSt6J1lc__HZw=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2fQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJNhTZcrebRcdRtduVY94iRx-ibNESx1v3lkVZGV6HwlD_yIkGGDIYkbdaaMot-_ZFDRH5hPviGUg46Vd4gLXnz3aoUdoZ6lw5Fe_V0CmE4L7ibqPq-B35-z-CSItAzIGauOmL-J2b227Qg0jqi7aqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" data-title="Clint Eastwood (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Clint+Eastwood+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">Clint Eastwood (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:22</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2fQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJNhTZcrebRcdRtduVY94iRx-ibNESx1v3lkVZGV6HwlD_yIkGGDIYkbdaaMot-_ZFDRH5hPviGUg46Vd4gLXnz3aoUdoZ6lw5Fe_V0CmE4L7ibqPq-B35-z-CSItAzIGauOmL-J2b227Qg0jqi7aqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2fShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJMBQcpbjUzsQd_VyMLVeuSJmv7t-dSR0-zlzVExIPD0p4zs-NA_ob2qBWb5NieLCEjBB4EzBhVw_44xt8CC_ni-5nUQ3a4t-5gaDSB-mMpXrnquxlIl35-z-CSItAzIGObjiMeM1YSGvWQglqSaWtSmr70tJLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" data-title="07 - Punk (Gorillaz 2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+07+-+Punk+%28Gorillaz+2001%29">
+		<div class="track-title nowrap">07 - Punk (Gorillaz 2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">01:36</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2fShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJMBQcpbjUzsQd_VyMLVeuSJmv7t-dSR0-zlzVExIPD0p4zs-NA_ob2qBWb5NieLCEjBB4EzBhVw_44xt8CC_ni-5nUQ3a4t-5gaDSB-mMpXrnquxlIl35-z-CSItAzIGObjiMeM1YSGvWQglqSaWtSmr70tJLL3eqhGOdArziJkfeIgrLt2ADg==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2YSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJLZWe97JISAQe8trM64buxx2yoNCbSFj3y5yeVF-NTFh1RMIMX-qXWmFXaE5t9jYPm4F2BPKtFw-449blDCXn0q1qkp-Xu5o2AaoS0aPHo6SuK6bhL935-z-CSItAzIGevuuM-UzY2KtGx0jtyObo2Xj8klIQ6Tm5wLGdFLpmNkUM5JndJneUJ2d.mp3" data-title="Starshine (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Starshine+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">Starshine (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:31</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2YSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJLZWe97JISAQe8trM64buxx2yoNCbSFj3y5yeVF-NTFh1RMIMX-qXWmFXaE5t9jYPm4F2BPKtFw-449blDCXn0q1qkp-Xu5o2AaoS0aPHo6SuK6bhL935-z-CSItAzIGevuuM-UzY2KtGx0jtyObo2Xj8klIQ6Tm5wLGdFLpmNkUM5JndJneUJ2d.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2aQhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-pYZezZWyMdUeRrLbFYozNIl4MaTxpe3QR2YHNcBTpP2SwlCFLtdnWvbpMkip7BSwU41TnzllcS8I1Y3ySqnz21u3NvWZxpkWWpVmqYDYH3sIiwhI135-z-CSItAzIGZL7iIKd2bWO6XxYgpDDa_TSp7iRQFPDN4hHWbhqzg9IFNNJvcIM=.mp3" data-title="M1 A1 (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+M1+A1+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">M1 A1 (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">10:40</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2aQhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-pYZezZWyMdUeRrLbFYozNIl4MaTxpe3QR2YHNcBTpP2SwlCFLtdnWvbpMkip7BSwU41TnzllcS8I1Y3ySqnz21u3NvWZxpkWWpVmqYDYH3sIiwhI135-z-CSItAzIGZL7iIKd2bWO6XxYgpDDa_TSp7iRQFPDN4hHWbhqzg9IFNNJvcIM=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2bShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJv1ZepbzbCAia8BmCKlHuT9myq98ahRxyhh3eFxcPApegC84GgPNWWWNeqUr0O_sIQ041CjStFMV3YVFlQKjlUmLnnE1Sup-kFepQ0OcEovOjvCAmpl35-z-CSItAzIGZ-q4bPE-ZGWnQwlhpziYu2z8rVYfHOfQownCelKv3YdAQtRlZcTdSZjATgraSGPV96pxjw==.mp3" data-title="New Genious (Brother) (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+New+Genious+%28Brother%29+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">New Genious (Brother) (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:58</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2bShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJv1ZepbzbCAia8BmCKlHuT9myq98ahRxyhh3eFxcPApegC84GgPNWWWNeqUr0O_sIQ041CjStFMV3YVFlQKjlUmLnnE1Sup-kFepQ0OcEovOjvCAmpl35-z-CSItAzIGZ-q4bPE-ZGWnQwlhpziYu2z8rVYfHOfQownCelKv3YdAQtRlZcTdSZjATgraSGPV96pxjw==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2bSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJctXf_DZIDkPSfhoMod4ojFitLJ-OClZgSFwYF5pQTIpwToIFXDycx2RKrwRrJ7bSRU64Cv3kUk_-79Flw6yrj2HukRDd6dqkU-kTnmME431rLOBhYl35-z-CSItAzIGefqhKrs8ZX6hWhYtv2fF_zSogFMfFuGUuxDNZVHziMNYM5FyMw==.mp3" data-title="Punk (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Punk+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">Punk (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">01:36</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2bSxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJctXf_DZIDkPSfhoMod4ojFitLJ-OClZgSFwYF5pQTIpwToIFXDycx2RKrwRrJ7bSRU64Cv3kUk_-79Flw6yrj2HukRDd6dqkU-kTnmME431rLOBhYl35-z-CSItAzIGefqhKrs8ZX6hWhYtv2fF_zSogFMfFuGUuxDNZVHziMNYM5FyMw==.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJeZZcfPKJSUzTfNqIMoZjy9crbt9aSB33SoZYmV6BTkr-GQPCELVamuvaaQou8XZPAUM1Dvztmcv75lYlgWerTyLgHFMQe5qynWDT0aiMorOkoSPhLt35-z-CSItAzIGZO6hbOQ-eWmpRBkk6CmbrnTpuglVFPrLpgnPYQWw34dBLKMqZ9WEEJnbRUGaQ3KI8OlszNI=.mp3" data-title="Man Research (Clapper) (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Man+Research+%28Clapper%29+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">Man Research (Clapper) (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">04:33</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJeZZcfPKJSUzTfNqIMoZjy9crbt9aSB33SoZYmV6BTkr-GQPCELVamuvaaQou8XZPAUM1Dvztmcv75lYlgWerTyLgHFMQe5qynWDT0aiMorOkoSPhLt35-z-CSItAzIGZO6hbOQ-eWmpRBkk6CmbrnTpuglVFPrLpgnPYQWw34dBLKMqZ9WEEJnbRUGaQ3KI8OlszNI=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK9xvS8rNZSxpd-luMrUYoEdpg7NETyNZ3wRxVzliNzIr5z4kG17hXX6aK5A5lereS2ZD0TvdrVwV0cdqySSPmzmQmXN-RbVzyk-HTHi5Vpf2tIGblIF35-z-CSItAzIGauOmL-J2b227Qg0jqi7aqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" data-title="Clint Eastwood (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Clint+Eastwood+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">Clint Eastwood (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">05:39</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQxvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK9xvS8rNZSxpd-luMrUYoEdpg7NETyNZ3wRxVzliNzIr5z4kG17hXX6aK5A5lereS2ZD0TvdrVwV0cdqySSPmzmQmXN-RbVzyk-HTHi5Vpf2tIGblIF35-z-CSItAzIGauOmL-J2b227Qg0jqi7aqGvrthcUEu-U_VWTMSC1itIFMIh3btXeU4jaAgrZXSQ=.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJ8gXTJf3fRcdGOtsM5tiv0VLybUYWz9u5ggHVDp1QzFP6xEmBWT0WniRXqA0hdzrLhZG2yvjj0gg469clA6pqC6p2UVcTe9z51eSSEbjNY70tLu3hrt35-z-CSItAzIGZe67KPh2eWWlWRQp6C2YvW31sxoCXqeJ_1T8KBj4mZoFaJJnLt6VScSARlSH.mp3" data-title="Latin Simone (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Latin+Simone+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">Latin Simone (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:37</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJ8gXTJf3fRcdGOtsM5tiv0VLybUYWz9u5ggHVDp1QzFP6xEmBWT0WniRXqA0hdzrLhZG2yvjj0gg469clA6pqC6p2UVcTe9z51eSSEbjNY70tLu3hrt35-z-CSItAzIGZe67KPh2eWWlWRQp6C2YvW31sxoCXqeJ_1T8KBj4mZoFaJJnLt6VScSARlSH.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJP4VZ_PwJyQcStNaCLFAv0d-o7B9Q1ho-yIbYmVUCSde4xkgbEbIdB-ZXKYko9vBSB0NyU7NhFcWxb1b4w2Rh0rXlkF-TZRG90-XSnW1HZXnlqy0hbN35-z-CSItAzIGPKL7bPE0eGWkWhs26HjH_zXG9xwdB7jNugvGLhH4mZ5fcIwx.mp3" data-title="5/4 (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+5_4+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">5/4 (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">02:40</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2UQRvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWJP4VZ_PwJyQcStNaCLFAv0d-o7B9Q1ho-yIbYmVUCSde4xkgbEbIdB-ZXKYko9vBSB0NyU7NhFcWxb1b4w2Rh0rXlkF-TZRG90-XSnW1HZXnlqy0hbN35-z-CSItAzIGPKL7bPE0eGWkWhs26HjH_zXG9xwdB7jNugvGLhH4mZ5fcIwx.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2URhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-pKSc7OICcNFdloIpd7uRlhg7AYRwN16y51VTpUNQ1x3QIyMHDTbR3QT7wqicTYFBU6zBeAnmMU-7FXyF6RmRSL2kp-Y5FF9nWBUleYPbuSs7GAuYl35-z-CSItAzIGeuOgNrs4ZXmmQgg16C2YvW31sxoCXqeJ_1T8KBj4mZoFaJJnLt6VScSARlSH.mp3" data-title="Slow Country (Gorillaz-2001)" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Slow+Country+%28Gorillaz-2001%29">
+		<div class="track-title nowrap">Slow Country (Gorillaz-2001)</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:35</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYll0vzEa2URhvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnci6Nx6XDhK_ZDNVapyvh9NHltHsutiBFXMEfIWK-pKSc7OICcNFdloIpd7uRlhg7AYRwN16y51VTpUNQ1x3QIyMHDTbR3QT7wqicTYFBU6zBeAnmMU-7FXyF6RmRSL2kp-Y5FF9nWBUleYPbuSs7GAuYl35-z-CSItAzIGeuOgNrs4ZXmmQgg16C2YvW31sxoCXqeJ_1T8KBj4mZoFaJJnLt6VScSARlSH.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYknkv8EKmbQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnY_6N16XDxJxq6ubalLsh1nNXFLqYxDPX7TZuctQsRNcd7WbBQPSfttNotAj0dmrrNTZV119z00VV5mKjx22Qc-G1mtbWunXZcrhcLAPxEg1zngvlcu74JA8h6qmi-620pQQupB5XWsfXWyLpSTrPaHv7N35-z-CSItAzIGevuuM-UzY2KtG0t1_HPaqGvrthcUEu_m5wLGdFLpmNkUM5JndJneUJ2d.mp3" data-title="Starshine [1999 - Gorillaz]" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+Starshine+%5B1999+-+Gorillaz%5D">
+		<div class="track-title nowrap">Starshine [1999 - Gorillaz]</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:31</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYknkv8EKmbQBvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnY_6N16XDxJxq6ubalLsh1nNXFLqYxDPX7TZuctQsRNcd7WbBQPSfttNotAj0dmrrNTZV119z00VV5mKjx22Qc-G1mtbWunXZcrhcLAPxEg1zngvlcu74JA8h6qmi-620pQQupB5XWsfXWyLpSTrPaHv7N35-z-CSItAzIGevuuM-UzY2KtG0t1_HPaqGvrthcUEu_m5wLGdFLpmNkUM5JndJneUJ2d.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+
+
+<div class="track-item fx-row fx-middle js-item __adv_list_track" data-track="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYknkv8Ea-aShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnch99xmfhZV0sr3TbZLlAxgaUdvnYxmI2LuBfItQ-Zye97dRyJqa_hbH6pTuDF-uLsZdT9v3gQoVHN-ACMq_2U5b2-rbXrcLZBO1J3WFBEh0EzdtmI9xb1b8w68qEmunUlvPuxHzXmcVEOmNbySmbq2vo135-z-CSItAzIGZ-q4bPE-ZGWnQwlhoiWFpmj1vgEnW_Lcu0jXdRH4w9kUadUsbcDD.mp3" data-title="New Genious [Gorillaz]" data-artist="Gorillaz" data-img="/templates/mp3uk/dleimages/no_image.jpg">	
+	<div class="track-play js-play" title="Играть \ остановить"><span class="fas fa-play"></span></div>
+	<a class="track-desc fx-1 es-track" href="/extra/Gorillaz/1/Gorillaz+-+New+Genious+%5BGorillaz%5D">
+		<div class="track-title nowrap">New Genious [Gorillaz]</div>
+		<div class="track-subtitle nowrap">Gorillaz</div>
+	</a>
+	<div class="track-time">03:58</div>
+	<a class="track-dl" href="/dl.php?3uo-Wv6kd48ZhrGm98EPjcnJWUTM8LfpRvwMNvc9acYknkv8Ea-aShvDqmMpm44sM6w5GHjubc4hILqwq8aR3jDbYrHhNtweFsHYMQqbk-_9UKsEQVXQ8iID5C_SoRAGXnch99xmfhZV0sr3TbZLlAxgaUdvnYxmI2LuBfItQ-Zye97dRyJqa_hbH6pTuDF-uLsZdT9v3gQoVHN-ACMq_2U5b2-rbXrcLZBO1J3WFBEh0EzdtmI9xb1b8w68qEmunUlvPuxHzXmcVEOmNbySmbq2vo135-z-CSItAzIGZ-q4bPE-ZGWnQwlhoiWFpmj1vgEnW_Lcu0jXdRH4w9kUadUsbcDD.mp3" title="Скачать трек" download><span class="fas fa-arrow-alt-to-bottom"></span></a>
+	<a class="__adv_purchase" href="#"><span class="__adv_list_track-icon"></span></a>
+	<div class="mgf"></div>
+</div>
+
+
+
+
+
+<!--noindex-->
+<div class="bottom-nav clr ignore-select" id="bottom-nav">
+	<div class="pagi-nav clearfix">
+		<!--  -->
+		<div class="navigation"><span>1</span> <a onclick="javascript:list_submit(2); return(false)" href="#">2</a> <a onclick="javascript:list_submit(3); return(false)" href="#">3</a> <a onclick="javascript:list_submit(4); return(false)" href="#">4</a> <a onclick="javascript:list_submit(5); return(false)" href="#">5</a> <a onclick="javascript:list_submit(6); return(false)" href="#">6</a> <a onclick="javascript:list_submit(7); return(false)" href="#">7</a> <a onclick="javascript:list_submit(8); return(false)" href="#">8</a> <a onclick="javascript:list_submit(9); return(false)" href="#">9</a> <a onclick="javascript:list_submit(10); return(false)" href="#">10</a> <span class="nav_ext">...</span> <a onclick="javascript:list_submit(20); return(false)" href="#">20</a></div>
+		<!-- <div class="pnext"><a name="nextlink" id="nextlink" onclick="javascript:list_submit(4,125); return(false)" href="#"><span class="fa fa-angle-right"></span></a></div> -->
+	</div>
+</div>
+<!--/noindex--></div>
+						
+					</main>
+
+				</div>
+
+				<!-- END MAIN -->
+
+				<aside class="sidebar">
+					<div class="side-box to-mob">
+						<div class="side-bt"><span class="fas fa-bars"></span>Категории</div>
+						<ul class="main-nav">
+							<li><a href="/pesen-2020/">Премьеры песен</a></li>
+							<li><a href="/new-year.html">Новый Год</a></li>
+							<li><a href="/muzika-v-mashinu.html">Музыка в машину</a></li>
+							<li><a href="#">Поп</a></li>
+							<li><a href="#">Рэп</a></li>
+							<li><a href="#">Нью вейв</a></li>
+							<li><a href="#">Джаз</a></li>
+							<li><a href="#">Транс</a></li>
+							<li><a href="#">Рэйв</a></li>
+							<li><a href="#">Трип хоп</a></li>
+							<li><a href="#">Металл</a></li>
+							<li><a href="#">Альтернатива</a></li>
+							<li><a href="#">Панк рок</a></li>
+							<li><a href="#">Инструментальное</a></li>
+							<li><a href="#">Русские новинки</a></li>
+							<li><a href="#">Зарубежные новинки</a></li>
+							<li><a href="#">Клубные новинки</a></li>
+						</ul>
+					</div>
+				</aside>
+
+			</div>
+
+			<!-- COLS -->
+
+		</div>
+
+		<!-- END CONTENT -->
+
+		<footer class="footer fx-row fx-middle">
+			<div class="ft-desc fx-1">
+			MP3UK.net - Качайте бесплатно и без регистрации свежую музыку. По всем вопросам пишите на: <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="78191c1511163815084b0d1356161d0c">[email&#160;protected]</a></span> <br />
+			ООО «АдвМьюзик» заключил лицензионные соглашения с крупнейшими российскими правообладателями на использование музыкальных произведений. <span><a href="/pravo.html" rel="nofollow">Полная информация</a> | <a href="https://offer.advmusic.com/" rel="nofollow">Описание услуг</a></span>
+			</div> <a target="_blank" rel="nofollow" href="https://fornex.com/code/mp3/"><img src="https://mp3uks.ru/fornex.png" /></a>
+			<div class="ft1-count">
+
+
+</div>
+		</footer>
+
+	</div>
+
+	<!-- END WRAP-CENTER -->
+
+</div>
+
+<!-- END WRAP -->
+
+<link href="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/editor/css/default.css&amp;v=25" rel="stylesheet" type="text/css">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://mp3uks.ru/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;v=25"></script>
+<script src="https://mp3uks.ru/engine/classes/min/index.php?charset=utf-8&amp;f=engine/classes/js/jqueryui.js,engine/classes/js/dle_js.js&amp;v=25" defer></script>
+<script src="https://mp3uks.ru/templates/mp3uk/js/libs.js?v1.1"></script>
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '06d60b345b567c1d42ef96c2a55f35a68c39c8f8';
+var dle_group      = 5;
+var dle_skin       = 'mp3uk';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+<script src="https://mp3uks.ru/landing/template/ads.js"></script>
+<script src="https://mp3uks.ru/templates/mp3uk/js/extra_search.js?3"></script>
+
+
+
+
+
+
+
+
+
+<script async src="https://scripts.advmusic.com/mp3uknet.min.js" charset="utf-8"></script>
+<!--script async src="https://mp3uks.ru/mp3uks.ru_fin.js" charset="utf-8"></script-->
+<script>
+var img = new Image();
+img.referrerPolicy = "no-referrer-when-downgrade";
+img.height = 1;
+img.src = "https://api.advmusic.com/stats.php?pixel=true&extra=mp3uknet";
+img.width = 1;
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(84788470, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/84788470" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+
+
+
+			<script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script>
+
+</body>
+</html>

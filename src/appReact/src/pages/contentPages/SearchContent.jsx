@@ -10,13 +10,11 @@ const SearchContent = () => {
 	const [list, setList] = useState([])
 	const [count, setCount] = useState([1])
 	const [song, setSong] = useState([])
-	const [currentPage, setPage] = useState(0)
 
 	const getSong = (title) => {
 
 		setCount([0])
 		setSong([])
-		setPage(0)
 
 		searchMusic(title).then(data => {
 			setCount(getPage(data.length))
@@ -27,11 +25,7 @@ const SearchContent = () => {
 	}
 
 	const listenPage = (ev) => {
-
 		const page = ev.target.innerText-1
-
-		console.log(list[page])
-
 		setSong([...list[page]])
 	}
 

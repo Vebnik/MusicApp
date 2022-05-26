@@ -9,3 +9,7 @@ export const loadMusic = async (url) => {
 	await window.electronAPI.loadMusic(url)
 		.then(() => console.log('Start download'))
 }
+
+export const loadLocalMusic = async () => {
+	return await window.electronAPI.loadLocalMusic()
+}

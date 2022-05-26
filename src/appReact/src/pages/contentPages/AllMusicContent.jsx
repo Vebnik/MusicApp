@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import SearchInput from "../../components/searchInput";
 import SongElement from "../../components/songElement";
 
-const AllMusicContent = () => {
+const AllMusicContent = ({getPage}) => {
 
 	const [list, setList] = useState([])
 	const [song, setSong] = useState([])
@@ -19,8 +19,12 @@ const AllMusicContent = () => {
 
 	}
 
+	if (getPage === 'allMusic') {
+
+	}
+
 	return (
-		<div className={'SearchContent'}>
+		<div className={'SearchContent'} >
 			<SearchInput getSong={getSong}/>
 			<div className={'dividerSearch'}> </div>
 			<div className={'SearchList'}>

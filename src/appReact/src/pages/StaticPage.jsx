@@ -1,11 +1,11 @@
 import React from 'react';
 import NavMenu from "../components/NavMenu";
 
-const StaticPage = ({children}) => {
+const StaticPage = ({children, page}) => {
 	return (
 		<div className={'StaticPage'}>
-			<NavMenu/>
-			<div className={'divider'}> </div>
+			<NavMenu setPage={page}/>
+			<div className={'divider'} > </div>
 			{children}
 		</div>
 	)

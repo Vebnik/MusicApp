@@ -20,6 +20,10 @@ const eventHandler = () => {
 	ipcMain.handle('dialog:getStreamMusic', async (event, args) => {
 		getMusicSrc(args)
 	})
+
+	ipcMain.handle('dialog:getLocalMusic', async (event, args) => {
+
+	})
 }
 
 

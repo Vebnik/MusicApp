@@ -35,3 +35,7 @@
     width: 100%;
     margin-top: 390px;
 }
+
+.current {
+    background-color: rgba(41, 78, 80, 0.4);
+}

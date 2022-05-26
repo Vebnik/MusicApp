@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import SongElement from "../../components/songElement";
 import SearchInput from "../../components/searchInput";
-import {getPage} from "../../utils/getPage";
-import { searchMusic } from "../../utils/parsingMusic";
+import {getPage} from "../../utils/otherLogic/getPage";
+import { searchMusic } from "../../utils/musicLogic/parsingMusic";
 
 
 const SearchContent = () => {

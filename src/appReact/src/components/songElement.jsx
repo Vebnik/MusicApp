@@ -3,13 +3,13 @@ import SongElButton from "./songElButton";
 
 const SongElement = (props) => {
 
-	const { title, dur } = props.dataSong
+	const { title, dur, url } = props.dataSong
 
 	return (
 		<div className={'SongElement'}>
 			<span>{title}</span>
 			<span>{dur} min </span>
-			<SongElButton />
+			<SongElButton url={url} />
 		</div>
 	)
 }

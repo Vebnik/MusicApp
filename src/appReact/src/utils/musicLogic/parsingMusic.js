@@ -14,7 +14,9 @@ const parsHtml = (strHtml) => {
 
 	return strHtml.match(regExp.patternEl).map((el, i) => {
 		return {
-			url: `https:${el.match(regExp.patternUrl)[1]}`,
+			url: (/dl.php/g).test(el.match(regExp.patternUrl)[1]) ?
+				`https://mp3uks.ru${el.match(regExp.patternUrl)[1]}`
+				: `https:${el.match(regExp.patternUrl)[1]}`,
 			title: el.match(regExp.patternTitle)[1].length > 55 ?
 				el.match(regExp.patternTitle)[1].slice(0 , 55)
 				: el.match(regExp.patternTitle)[1],

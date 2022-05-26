@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import SongElement from "../../components/songElement";
 import SearchInput from "../../components/searchInput";
-import {getPage} from "../../utils/otherLogic/getPage";
-import { searchMusic } from "../../utils/musicLogic/parsingMusic";
+import { getPage } from "../../utils/otherLogic/getPage";
+import { getMusic } from "../../utils/musicLogic/YtSearchMusic";
 
 
 const SearchContent = () => {
@@ -16,7 +16,7 @@ const SearchContent = () => {
 		setCount([0])
 		setSong([])
 
-		searchMusic(title).then(data => {
+		getMusic(title).then(data => {
 			setCount(getPage(data.length))
 			setSong([...data[0]])
 			setList([...data])

@@ -1,4 +1,5 @@
 {
+  "homepage": "./",
   "name": "react-app-music",
   "version": "0.1.0",
   "private": true,
@@ -23,11 +24,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "dev": "concurrently -k \"npm run start\" \"npm run electron\"",
     "electron": "wait-on tcp:3000 && electron .",
-    "prod": "electron ."
+    "prod": " electron -r dotenv/config ."
   },
   "eslintConfig": {
     "extends": [

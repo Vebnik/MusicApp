@@ -1,11 +1,9 @@
 // Import
 const { AppStart } = require('./src/electronApp/appConfig')
-const path = require('path')
 
 
 // Logic
-//const entry = path.resolve(__dirname, path.join('build', 'index.html'))
-const appStart = new AppStart()
+const appStart = new AppStart(process.env.ENTRY_RENDER || null)
 
 
 // Entry

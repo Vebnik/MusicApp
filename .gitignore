@@ -7,7 +7,7 @@
 .idea
 .gitignore
 .env
-
+localDb
 
 # testing
 /coverage

@@ -28,7 +28,7 @@ function App() {
           <Routes>
             <Route path={'/search'} element={<SearchContent />}/>
             <Route path={'/favorite'} element={<FavoriteContent />}/>
-            <Route path={'/allMusic'} element={<AllMusicContent getPage={page} />}/>
+            <Route path={'/allMusic'} element={<AllMusicContent getPages={page} />}/>
             <Route path={'/settings'} element={<SettingContent />}/>
           </Routes>
         </StaticPage>

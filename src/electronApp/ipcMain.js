@@ -1,5 +1,5 @@
 const { ipcMain, dialog } = require('electron')
-const { getMusicSrc, getRes } = require('./searchMusicLogic/YtSearch')
+const { getMusicSrc, getRes, getLocalMusic } = require('./searchMusicLogic/YtSearch')
 
 const eventHandler = () => {
 
@@ -22,7 +22,12 @@ const eventHandler = () => {
 	})
 
 	ipcMain.handle('dialog:getLocalMusic', async (event, args) => {
+		const prom = new Promise(resolve => {
+			getLocalMusic().then(data => { resolve(data) })
+		})
 
+		await Promise.all([prom])
+		return await prom
 	})
 }
 

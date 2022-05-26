@@ -1,16 +1,14 @@
 import React from 'react';
+import {AudioPlayer} from "../../../electronApp/searchMusicLogic/AudioPlayer";
 
 
 const SongElAllButton = (props) => {
 
-	const { path } = props
+	const { id } = props
 
 	const playAudio = () => {
-		const player = new Audio(path)
-
-		player.play()
-			.then(() => console.log('Start playing'))
-			.catch(err => console.log(err))
+		console.log('Try to start music')
+		AudioPlayer(id)
 	}
 
 	return (

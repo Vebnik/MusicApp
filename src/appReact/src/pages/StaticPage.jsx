@@ -1,10 +1,13 @@
-import React from 'react';
+import React, {useState} from 'react';
 import NavMenu from "../components/NavMenu";
 
-const StaticPage = ({children, page}) => {
+const StaticPage = ({children, page, myRoutes, pageCurrent}) => {
+
+	const [currentSong, setSong] = useState()
+
 	return (
 		<div className={'StaticPage'}>
-			<NavMenu setPage={page}/>
+			<NavMenu setPage={page} myRoutes={myRoutes} pageCurrent={pageCurrent} currentSong={currentSong} setSong={setSong} />
 			<div className={'divider'} > </div>
 			{children}
 		</div>

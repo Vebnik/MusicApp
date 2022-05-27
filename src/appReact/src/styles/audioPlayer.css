@@ -1,0 +1,29 @@
+.MyPlayer {
+    display: flex;
+    justify-content: center;
+    width: 180px;
+    height: 100px;
+    background-color: transparent;
+
+    border: 2px solid rgba(0, 21, 110, 0.7);
+    border-radius: 5px 5px;
+}
+
+.rhap_button-clear {
+    width: 16px;
+    font-size: 18px;
+}
+
+.rhap_time {
+    font-size: 10px;
+}
+
+.rhap_controls-section {
+    display: flex;
+    justify-content: center;
+}
+
+.rhap_additional-controls {
+    display: flex;
+    justify-content: center;
+}

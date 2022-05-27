@@ -1,7 +1,8 @@
 const { ipcMain, dialog } = require('electron')
 const { getMusicSrc, getRes, getLocalMusic } = require('./searchMusicLogic/YtSearch')
 const { nodePath } = require('./utils/nodePath')
-
+const {MessageChannelMain} = require('electron')
+const webContents = require('electron')
 
 const eventHandler = () => {
 
@@ -35,7 +36,14 @@ const eventHandler = () => {
 	ipcMain.handle('dialog:path', async (event, args) => {
 		return nodePath(args)
 	})
+
+	ipcMain.handle('dialog:test', async (event, args) => {
+		const { port1, port2 } = new MessageChannelMain()
+
+		webContents.postMessage('port', { message: args }, [port1])
+	})
 }
+
 
 
 module.exports = { eventHandler }

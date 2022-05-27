@@ -1,6 +1,7 @@
 import React from 'react';
 import SongElAllButton from "./songElAllButton";
 
+
 const SongElemAllContent = (props) => {
 
 	const { title, duration, id } = props.dataSong
@@ -9,7 +10,7 @@ const SongElemAllContent = (props) => {
 		<div className={'SongElement'}>
 			<span>{title}</span>
 			<span>{duration} sec </span>
-			<SongElAllButton id={id} />
+			<SongElAllButton id={id} setSong={props.setSong}/>
 		</div>
 	)
 }

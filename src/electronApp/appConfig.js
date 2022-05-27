@@ -28,7 +28,8 @@ class AppStart {
 				webSecurity: false,
 				nodeIntegration: true,
 				devTools: true,
-				preload: path.join(__dirname, 'preload.js')
+				preload: path.join(__dirname, 'preload.js'),
+				contextIsolation: true
 			},
 			frame: false,
 			hasShadow: true,

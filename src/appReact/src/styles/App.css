@@ -3,6 +3,7 @@
 @import "PagesStyles.css";
 @import "NavMenu.css";
 @import "contentStyles/mainContent.css";
+@import "audioPlayer.css";
 
 * {
     padding: 0;
@@ -13,7 +14,7 @@
     user-focus: none;
     text-decoration: none;
     font-family: cursive;
-    color: rgba(0, 21, 110, 0.7);;
+    color: rgba(0, 21, 110, 0.7);
 }
 
 

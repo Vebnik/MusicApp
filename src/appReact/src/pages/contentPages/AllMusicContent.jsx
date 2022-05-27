@@ -5,16 +5,16 @@ import {getPage} from "../../utils/otherLogic/getPage";
 import SongElemAllContent from "../../components/songElemAllContent";
 
 
-const AllMusicContent = ({getPages}) => {
+const AllMusicContent = ({getPages, setSong}) => {
 
 	const [list, setList] = useState([])
-	const [song, setSong] = useState([])
+	const [song, setSongs] = useState([])
 	const [count, setCount] = useState([1])
 
 
 	const listenPage = (ev) => {
 		const page = ev.target.innerText-1
-		setSong([...list[page]])
+		setSongs([...list[page]])
 	}
 
 	const getSong = (title) => {
@@ -25,7 +25,7 @@ const AllMusicContent = ({getPages}) => {
 
 		loadLocalMusic().then(data => {
 			setCount(getPage(data.length))
-			setSong([...data[0]])
+			setSongs([...data[0]])
 			setList([...data])
 		})
 	}
@@ -35,7 +35,7 @@ const AllMusicContent = ({getPages}) => {
 			<SearchInput getSong={getSong}/>
 			<div className={'dividerSearch'}> </div>
 			<div className={'SearchList'}>
-				{ song.map((el, i) => i < 11 ? <SongElemAllContent dataSong={el}/> : null ) }
+				{ song.map((el, i) => i < 11 ? <SongElemAllContent dataSong={el} setSong={setSong}/> : null ) }
 			</div>
 			<div className={'PagList'}>
 				{ count.map(el => <button onClick={ev => listenPage(ev)} className={'PagListBtn'} key={el} >{el}</button> ) }

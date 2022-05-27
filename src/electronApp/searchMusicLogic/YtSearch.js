@@ -70,11 +70,12 @@ const getMusicSrc = (url) => {
 			url: info.videoDetails.video_url,
 			duration: info.videoDetails.lengthSeconds
 		}
-		const pathSave = path.join('localDb', `${songModel.id}.mp4`)
+		const format = ytdl.chooseFormat(info.formats, { quality: '140' });
+		const pathSave = path.join('localDb', `${songModel.id}.mp3`)
 
 		await saveDb(songModel)
 			.then(() => {
-				ytdl.downloadFromInfo(info, {filter: 'audio', quality: 'highestaudio'})
+				ytdl.downloadFromInfo(info, {format: format})
 					.pipe(fs.createWriteStream(pathSave, 'utf-8'))
 			})
 			.catch(err => console.error(err))

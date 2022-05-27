@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import SearchInput from "../../components/searchInput";
-import SongElement from "../../components/songElement";
-import {getMusic, loadLocalMusic} from "../../utils/musicLogic/YtSearchMusic";
+import {loadLocalMusic} from "../../utils/ipcBridgeLogic/YtSearchMusic";
 import {getPage} from "../../utils/otherLogic/getPage";
 import SongElemAllContent from "../../components/songElemAllContent";
 

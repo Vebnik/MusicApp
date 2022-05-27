@@ -1,5 +1,5 @@
 import React from 'react';
-import {AudioPlayer} from "../../../electronApp/searchMusicLogic/AudioPlayer";
+import {AudioPlayer, Player} from "../../../electronApp/searchMusicLogic/AudioPlayer";
 
 
 const SongElAllButton = (props) => {
@@ -8,7 +8,11 @@ const SongElAllButton = (props) => {
 
 	const playAudio = () => {
 		console.log('Try to start music')
-		AudioPlayer(id)
+
+		const player = new Player(id)
+		player.play()
+
+		//AudioPlayer(id)
 	}
 
 	return (
@@ -16,6 +20,7 @@ const SongElAllButton = (props) => {
 			<div className={'songContext'}>
 				<i className={'fa fa-play'} onClick={playAudio}> </i>
 				<i className={'fa fa-star'}> </i>
+				<i className={'fa fa-video'}> </i>
 			</div>
 		</div>
 	)

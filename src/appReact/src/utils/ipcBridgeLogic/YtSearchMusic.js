@@ -13,3 +13,7 @@ export const loadMusic = async (url) => {
 export const loadLocalMusic = async () => {
 	return await window.electronAPI.loadLocalMusic()
 }
+
+export const nodePath = async (path) => {
+	return await window.electronAPI.nodePath(path)
+}

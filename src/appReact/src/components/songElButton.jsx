@@ -1,5 +1,5 @@
 import React from 'react';
-import { loadMusic } from '../utils/musicLogic/YtSearchMusic'
+import { loadMusic } from '../utils/ipcBridgeLogic/YtSearchMusic'
 
 
 const SongElButton = (props, {}) => {

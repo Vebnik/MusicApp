@@ -1,5 +1,7 @@
 const { ipcMain, dialog } = require('electron')
 const { getMusicSrc, getRes, getLocalMusic } = require('./searchMusicLogic/YtSearch')
+const { nodePath } = require('./utils/nodePath')
+
 
 const eventHandler = () => {
 
@@ -28,6 +30,10 @@ const eventHandler = () => {
 
 		await Promise.all([prom])
 		return await prom
+	})
+
+	ipcMain.handle('dialog:path', async (event, args) => {
+		return nodePath(args)
 	})
 }
 

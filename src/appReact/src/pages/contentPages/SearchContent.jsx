@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import SongElement from "../../components/songElement";
 import SearchInput from "../../components/searchInput";
 import { getPage } from "../../utils/otherLogic/getPage";
-import { getMusic } from "../../utils/musicLogic/YtSearchMusic";
+import { getMusic } from "../../utils/ipcBridgeLogic/YtSearchMusic";
 
 
 const SearchContent = () => {

@@ -1,5 +1,5 @@
 const { ipcMain, dialog } = require('electron')
-const { getMusicSrc, getRes, getLocalMusic, searchLocal, nodePath } = require('./searchMusicLogic/YtSearch')
+const { getMusicSrc, getRes, getLocalMusic, searchLocal, nodePath, deleteMusic } = require('./searchMusicLogic/YtSearch')
 
 
 const eventHandler = () => {
@@ -39,6 +39,10 @@ const eventHandler = () => {
 	ipcMain.handle('dialog:search', async (event, args) => {
 		await console.log(args, 'in Handle')
 		return await searchLocal(args)
+	})
+
+	ipcMain.handle('dialog:deleteLocalMusic', async (event, args) => {
+		return await deleteMusic(args)
 	})
 
 }

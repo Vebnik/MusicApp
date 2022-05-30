@@ -118,7 +118,6 @@ const getRes = async (query) => {
 }
 
 const getLocalMusic = async () => {
-
 	const dbPath = path.join(appData, 'musicDb.json')
 	return await read(dbPath)
 }
@@ -150,4 +149,18 @@ const nodePath = async (songId) => {
 	return path.join(appData, `${songId}.mp3`)
 }
 
-module.exports = { getRes, getMusicSrc, getLocalMusic, searchLocal, nodePath }
+const deleteMusic = async (songId) => {
+	const songPath = path.join(appData, `${songId}.mp3`)
+	const dbPath = path.join(appData, 'musicDb.json')
+
+	await fs.readFile(dbPath, 'utf-8' ,async (err, data) => {
+		const newData = JSON.parse(data).filter(el => el.id !== songId)
+		await fs.writeFile(dbPath, JSON.stringify(newData, '', '  '), (err) => {
+			console.log(`Deleted song ${songId}`)
+		})
+
+		await fs.rm(songPath, (err) => console.log(err))
+	})
+}
+
+module.exports = { getRes, getMusicSrc, getLocalMusic, searchLocal, nodePath, deleteMusic }

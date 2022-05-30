@@ -7,6 +7,7 @@ contextBridge.exposeInMainWorld('electronAPI',{
 	loadMusic: (url) => ipcRenderer.invoke('dialog:getStreamMusic', url),
 	loadLocalMusic: () => ipcRenderer.invoke('dialog:getLocalMusic'),
 	nodePath: (id) => ipcRenderer.invoke('dialog:path', id),
+	deleteMusic: (id) => ipcRenderer.invoke('dialog:deleteLocalMusic', id)
 })
 
 contextBridge.exposeInMainWorld('backendYt', {

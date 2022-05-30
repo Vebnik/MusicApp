@@ -11,7 +11,6 @@ export const loadMusic = async (url) => {
 }
 
 export const loadLocalMusic = async () => {
-	console.log('Loading')
 	return await window.electronAPI.loadLocalMusic()
 }
 
@@ -24,8 +23,11 @@ export const testLogic = async (path) => {
 }
 
 export const searchLocalMusic = async (title) => {
-	console.log(title, 'inYtSearch')
 	return await window.backendYt.searchLocalMusic(title)
+}
+
+export const deleteLocalMusic = async (id) => {
+	return await window.electronAPI.deleteMusic(id)
 }
 
 export const minCloseWin = (ev) => {

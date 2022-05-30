@@ -8,7 +8,7 @@ const SongElement = (props) => {
 	return (
 		<div className={'SongElement'}>
 			<span>{title}</span>
-			<span>{dur} min </span>
+			<span><i className={'fa fa-clock'}/> {dur} Min</span>
 			<SongElButton url={url} />
 		</div>
 	)

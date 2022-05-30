@@ -99,7 +99,7 @@ const getRes = async (query) => {
 				if (el.type === 'video') {
 
 					return {
-						title: el.title.slice(0, 60),
+						title: el.title.slice(0, 50),
 						url: el.url,
 						dur: el.duration
 					}
@@ -119,5 +119,30 @@ const getLocalMusic = async () => {
 	return await read(dbPath)
 }
 
+const searchLocal = async (title) => {
 
-module.exports = { getRes, getMusicSrc, getLocalMusic  }
+	console.log(title, 'exec music')
+
+	const divideArr = (arr) => {
+
+		const tmpArr = []
+		for (let i = 0; i <= arr.length; i+=11) tmpArr.push(arr.slice(i, i+11))
+		return tmpArr
+
+	}
+	const dbPath = path.join('localDb', 'musicDb.json')
+
+	const prom = new Promise(async resolve => {
+		await fs.readFile(dbPath, 'utf-8' ,async (err, data) => {
+	 		resolve(
+				divideArr(JSON.parse(data).filter(el => new RegExp(`${title}`, 'gi').test(el.title)))
+			)
+		})
+	})
+
+	await Promise.all([prom])
+	return await prom
+}
+
+
+module.exports = { getRes, getMusicSrc, getLocalMusic, searchLocal  }

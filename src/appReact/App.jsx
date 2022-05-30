@@ -8,7 +8,6 @@ import './src/styles/App.css'
 import {useState} from "react";
 
 
-// Logic
 function App() {
 
   const [page, setPage] = useState('/')

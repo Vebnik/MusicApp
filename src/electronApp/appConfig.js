@@ -1,6 +1,6 @@
 // Import
 const path = require("path");
-const { BrowserWindow, app } = require("electron");
+const { BrowserWindow, app, ipcMain} = require("electron");
 const { eventHandler } = require('./ipcMain')
 
 // Logic
@@ -11,6 +11,7 @@ class AppStart {
 		devRoot: 'http://localhost:3000',
 		build: 'dev'
 	}
+	#win
 
 	constructor(build) {
 		this.#paths.build = build
@@ -19,7 +20,7 @@ class AppStart {
 
 	// Methods
 	#createWindow () {
-		const win = new BrowserWindow({
+		this.#win = new BrowserWindow({
 			darkTheme: true,
 			width: 1100,
 			height: 650,
@@ -36,10 +37,10 @@ class AppStart {
 		})
 
 		if (this.#paths.root) {
-			win.loadFile(this.#paths.root)
+			this.#win.loadFile(this.#paths.root)
 				.catch(err => console.error(err))
 		} else {
-			win.loadURL(this.#paths.devRoot)
+			this.#win.loadURL(this.#paths.devRoot)
 				.catch(err => console.error(err))
 		}
 	}
@@ -62,7 +63,18 @@ class AppStart {
 
 	}
 
-	start () { this.#appEventHandler() }
+	#mainWindowEvent() {
+		// windowDrive
+		ipcMain.handle('dialog:closeWindow', async (event) => {
+			app.quit()
+		})
+
+		ipcMain.handle('dialog:minWindow', async (event) => {
+			this.#win.minimize()
+		})
+	}
+
+	start () { this.#appEventHandler(); this.#mainWindowEvent() }
 }
 
-module.exports = { AppStart }
+module.exports = { AppStart, app }

@@ -1,11 +1,11 @@
 const { ipcMain, dialog } = require('electron')
-const { getMusicSrc, getRes, getLocalMusic } = require('./searchMusicLogic/YtSearch')
+const { getMusicSrc, getRes, getLocalMusic, searchLocal } = require('./searchMusicLogic/YtSearch')
 const { nodePath } = require('./utils/nodePath')
-const {MessageChannelMain} = require('electron')
-const webContents = require('electron')
+const { app } = require('./appConfig')
 
 const eventHandler = () => {
 
+	// ytdl core backend
 	ipcMain.handle('dialog:getMusic', async (event, args) => {
 		const prom = new Promise(resolve => {
 			console.log('Start exec')
@@ -37,11 +37,11 @@ const eventHandler = () => {
 		return nodePath(args)
 	})
 
-	ipcMain.handle('dialog:test', async (event, args) => {
-		const { port1, port2 } = new MessageChannelMain()
-
-		webContents.postMessage('port', { message: args }, [port1])
+	ipcMain.handle('dialog:search', async (event, args) => {
+		await console.log(args, 'in Handle')
+		return await searchLocal(args)
 	})
+
 }
 
 

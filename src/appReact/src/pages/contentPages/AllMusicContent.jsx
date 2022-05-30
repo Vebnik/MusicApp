@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import SearchInput from "../../components/searchInput";
-import {loadLocalMusic} from "../../utils/ipcBridgeLogic/YtSearchMusic";
+import {loadLocalMusic, searchLocalMusic} from "../../utils/ipcBridgeLogic/YtSearchMusic";
 import {getPage} from "../../utils/otherLogic/getPage";
 import SongElemAllContent from "../../components/songElemAllContent";
 import BtnLoadMusic from "../../components/BtnLoadMusic";
@@ -18,7 +18,13 @@ const AllMusicContent = ({getPages, setSong}) => {
 		setSongs([...list[page]])
 	}
 
-	const getSong = (title) => console.log(title)
+	const getSong = (title) => {
+		searchLocalMusic(title).then(data => {
+			setCount(getPage(data.length))
+			setSongs([...data[0]])
+			setList([...data])
+		})
+	}
 
 	const getLocalMusic = (ev) => {
 		ev.preventDefault()
@@ -43,7 +49,7 @@ const AllMusicContent = ({getPages, setSong}) => {
 				{ count.map(el => <button onClick={ev => listenPage(ev)} className={'PagListBtn'} key={el} >{el}</button> ) }
 			</div>
 		</div>
-	);
-};
+	)
+}
 
 export default AllMusicContent;

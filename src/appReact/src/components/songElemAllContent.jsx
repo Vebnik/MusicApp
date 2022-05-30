@@ -9,7 +9,7 @@ const SongElemAllContent = (props) => {
 	return (
 		<div className={'SongElement'}>
 			<span>{title}</span>
-			<span>{duration} sec </span>
+			<span><i className={'fa fa-clock'}/> {(duration/60).toFixed(1)} Min</span>
 			<SongElAllButton id={id} setSong={props.setSong}/>
 		</div>
 	)

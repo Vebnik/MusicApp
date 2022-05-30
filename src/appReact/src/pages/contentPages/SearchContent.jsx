@@ -43,4 +43,5 @@ const SearchContent = () => {
 	)
 }
 
+
 export default SearchContent;

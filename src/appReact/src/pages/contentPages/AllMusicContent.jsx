@@ -3,6 +3,7 @@ import SearchInput from "../../components/searchInput";
 import {loadLocalMusic} from "../../utils/ipcBridgeLogic/YtSearchMusic";
 import {getPage} from "../../utils/otherLogic/getPage";
 import SongElemAllContent from "../../components/songElemAllContent";
+import BtnLoadMusic from "../../components/BtnLoadMusic";
 
 
 const AllMusicContent = ({getPages, setSong}) => {
@@ -17,12 +18,10 @@ const AllMusicContent = ({getPages, setSong}) => {
 		setSongs([...list[page]])
 	}
 
-	const getSong = (title) => {
-		console.log(title)
-	}
+	const getSong = (title) => console.log(title)
 
-	if (getPages === 'allMusic') {
-
+	const getLocalMusic = (ev) => {
+		ev.preventDefault()
 		loadLocalMusic().then(data => {
 			setCount(getPage(data.length))
 			setSongs([...data[0]])
@@ -30,9 +29,12 @@ const AllMusicContent = ({getPages, setSong}) => {
 		})
 	}
 
+
 	return (
 		<div className={'SearchContent'} >
-			<SearchInput getSong={getSong}/>
+			<SearchInput getSong={getSong}>
+				<BtnLoadMusic getLocalMusic={getLocalMusic}/>
+			</SearchInput>
 			<div className={'dividerSearch'}> </div>
 			<div className={'SearchList'}>
 				{ song.map((el, i) => i < 11 ? <SongElemAllContent dataSong={el} setSong={setSong}/> : null ) }

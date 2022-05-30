@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-const SearchInput = ({getSong}) => {
+const SearchInput = ({getSong, children}) => {
 
 	const [title, setTitle] = useState('')
 
@@ -13,6 +13,7 @@ const SearchInput = ({getSong}) => {
 	return (
 		<div className={'search'}>
 			<form>
+				{children}
 				<input className={'MyInput'} value={title} onChange={(e) => setTitle(e.target.value)}/>
 				<button className={'submitForm'} onClick={searchSong}>
 					Search <i className={'fa fa-globe'}> </i>

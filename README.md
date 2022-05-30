@@ -1,1 +1,2 @@
-### Nice App 🔥
+## 🔥 Music App 🔥
+### Config only os !== darwin

@@ -1,7 +1,6 @@
 const { ipcMain, dialog } = require('electron')
-const { getMusicSrc, getRes, getLocalMusic, searchLocal } = require('./searchMusicLogic/YtSearch')
-const { nodePath } = require('./utils/nodePath')
-const { app } = require('./appConfig')
+const { getMusicSrc, getRes, getLocalMusic, searchLocal, nodePath } = require('./searchMusicLogic/YtSearch')
+
 
 const eventHandler = () => {
 

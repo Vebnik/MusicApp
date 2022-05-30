@@ -15,8 +15,8 @@ export const loadLocalMusic = async () => {
 	return await window.electronAPI.loadLocalMusic()
 }
 
-export const nodePath = async (path) => {
-	return window.electronAPI.nodePath(path)
+export const nodePath = async (id) => {
+	return window.electronAPI.nodePath(id)
 }
 
 export const testLogic = async (path) => {

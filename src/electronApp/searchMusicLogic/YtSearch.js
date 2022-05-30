@@ -3,12 +3,14 @@ const ytdl = require('ytdl-core')
 const fs = require('fs')
 const path = require('path')
 const {v4: uuidv4} = require('uuid')
+const { app } = require('electron')
+
+// Paths
+const appData = path.join(app.getPath('music'), 'appMusicElectron')
 
 
 // Utils
-const mkDir = () => {
-	fs.mkdir(path.join('localDb'), (err) => {})
-}
+const mkDir = () => { fs.mkdir(path.join(appData), (err) => {}) }
 
 const write = (dbPath, songModel) => {
 	fs.writeFile(dbPath, JSON.stringify(songModel, '', '  '), (err) => {})
@@ -35,7 +37,7 @@ const read = async (dbPath) => {
 
 // Main logic
 const saveDb = async (songModel) => {
-	const dbPath = path.join('localDb', 'musicDb.json')
+	const dbPath = path.join(appData, 'musicDb.json')
 
 	const prom = new Promise(async resolve => {
 		await fs.readFile(dbPath, 'utf-8' ,async (err, data) => {
@@ -44,6 +46,7 @@ const saveDb = async (songModel) => {
 				await mkDir()
 				await write(dbPath, [songModel])
 				resolve('new mk dir')
+
 			} else {
 
 				const newData = JSON.parse(data)
@@ -71,7 +74,7 @@ const getMusicSrc = (url) => {
 			duration: info.videoDetails.lengthSeconds
 		}
 		const format = ytdl.chooseFormat(info.formats, { quality: '140' });
-		const pathSave = path.join('localDb', `${songModel.id}.mp3`)
+		const pathSave = path.join(appData, `${songModel.id}.mp3`)
 
 		await saveDb(songModel)
 			.then(() => {
@@ -115,13 +118,14 @@ const getRes = async (query) => {
 }
 
 const getLocalMusic = async () => {
-	const dbPath = path.join('localDb', 'musicDb.json')
+
+	const dbPath = path.join(appData, 'musicDb.json')
 	return await read(dbPath)
 }
 
 const searchLocal = async (title) => {
 
-	console.log(title, 'exec music')
+	const dbPath = path.join(appData, 'musicDb.json')
 
 	const divideArr = (arr) => {
 
@@ -130,8 +134,6 @@ const searchLocal = async (title) => {
 		return tmpArr
 
 	}
-	const dbPath = path.join('localDb', 'musicDb.json')
-
 	const prom = new Promise(async resolve => {
 		await fs.readFile(dbPath, 'utf-8' ,async (err, data) => {
 	 		resolve(
@@ -144,5 +146,8 @@ const searchLocal = async (title) => {
 	return await prom
 }
 
+const nodePath = async (songId) => {
+	return path.join(appData, `${songId}.mp3`)
+}
 
-module.exports = { getRes, getMusicSrc, getLocalMusic, searchLocal  }
+module.exports = { getRes, getMusicSrc, getLocalMusic, searchLocal, nodePath }

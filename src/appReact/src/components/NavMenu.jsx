@@ -11,7 +11,6 @@ const NavMenu = ({setPage, myRoutes, pageCurrent, currentSong, setSong}) => {
 
 	const [currentNav, setCurrent] = useState()
 
-
 	const editSelect = (ev) => setCurrent(ev)
 	const onClickSearch = () => {
 		editSelect(0)
@@ -20,7 +19,7 @@ const NavMenu = ({setPage, myRoutes, pageCurrent, currentSong, setSong}) => {
 	}
 	const onClickAllMusic = async () => {
 		editSelect(2)
-		await myRoutes(<AllMusicContent getPages={pageCurrent} setSong={setSong}/>)
+		await myRoutes(<AllMusicContent getPages={pageCurrent} setSong={setSong} />)
 		await setPage('allMusic')
 	}
 

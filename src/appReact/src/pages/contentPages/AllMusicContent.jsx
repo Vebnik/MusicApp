@@ -4,13 +4,15 @@ import {loadLocalMusic, searchLocalMusic} from "../../utils/ipcBridgeLogic/YtSea
 import {getPage} from "../../utils/otherLogic/getPage";
 import SongElemAllContent from "../../components/songElemAllContent";
 import BtnLoadMusic from "../../components/BtnLoadMusic";
+import Loader from "../../Loader/Loader";
 
 
-const AllMusicContent = ({getPages, setSong}) => {
+const AllMusicContent = ({setSong}) => {
 
 	const [list, setList] = useState([])
 	const [song, setSongs] = useState([])
 	const [count, setCount] = useState([1])
+	const [isLoading, setLoading] = useState(false)
 
 
 	const listenPage = (ev) => {
@@ -19,7 +21,11 @@ const AllMusicContent = ({getPages, setSong}) => {
 	}
 
 	const getSong = (title) => {
+		setLoading(true)
+
 		searchLocalMusic(title).then(data => {
+			setLoading(false)
+
 			setCount(getPage(data.length))
 			setSongs([...data[0]])
 			setList([...data])
@@ -27,8 +33,10 @@ const AllMusicContent = ({getPages, setSong}) => {
 	}
 
 	const getLocalMusic = (ev) => {
+		setLoading(true)
 		ev.preventDefault()
 		loadLocalMusic().then(data => {
+			setLoading(false)
 			setCount(getPage(data.length))
 			setSongs([...data[0]])
 			setList([...data])
@@ -43,7 +51,7 @@ const AllMusicContent = ({getPages, setSong}) => {
 			</SearchInput>
 			<div className={'dividerSearch'}> </div>
 			<div className={'SearchList'}>
-				{ song.map((el, i) => i < 11 ? <SongElemAllContent dataSong={el} setSong={setSong}/> : null ) }
+				{ isLoading ? <Loader /> : song.map((el, i) => i < 11 ? <SongElemAllContent dataSong={el} setSong={setSong}/> : null ) }
 			</div>
 			<div className={'PagList'}>
 				{ count.map(el => <button onClick={ev => listenPage(ev)} className={'PagListBtn'} key={el} >{el}</button> ) }

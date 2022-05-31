@@ -6,6 +6,7 @@ import SearchContent from "./src/pages/contentPages/SearchContent";
 import 'react-h5-audio-player/lib/styles.css';
 import './src/styles/App.css'
 import {useState} from "react";
+import Loader from "./src/Loader/Loader";
 
 
 function App() {
@@ -22,7 +23,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Header/>
-        <StaticPage page={changePage} myRoutes={setPath} pageCurrent={page} >
+        <StaticPage page={changePage} myRoutes={setPath} pageCurrent={page}>
           {currentPath}
         </StaticPage>
       </div>

@@ -4,6 +4,8 @@
 @import "NavMenu.css";
 @import "contentStyles/mainContent.css";
 @import "audioPlayer.css";
+@import "../Loader/Loader.css";
+
 
 * {
     padding: 0;

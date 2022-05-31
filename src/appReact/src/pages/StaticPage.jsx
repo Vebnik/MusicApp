@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import NavMenu from "../components/NavMenu";
+import Loader from "../Loader/Loader";
 
 const StaticPage = ({children, page, myRoutes, pageCurrent}) => {
 

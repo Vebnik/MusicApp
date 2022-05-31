@@ -1,6 +1,5 @@
 import React from 'react';
-import { GetPath } from "../../../electronApp/searchMusicLogic/AudioPlayer";
-import {deleteLocalMusic} from "../utils/ipcBridgeLogic/YtSearchMusic";
+import {deleteLocalMusic, nodePath} from "../utils/ipcBridgeLogic/YtSearchMusic";
 
 
 
@@ -9,7 +8,7 @@ const SongElAllButton = (props) => {
 	const { id } = props
 
 	const localAudio = () => {
-		GetPath(id).then(async path => {
+		nodePath(id).then(async path => {
 			await props.setSong(path)
 		})
 	}

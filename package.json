@@ -1,4 +1,10 @@
 {
+  "build": {
+    "appId": "github.com.vebnik",
+    "win": {
+      "target": "portable"
+    }
+  },
   "homepage": "./",
   "name": "react-app-music",
   "version": "0.1.0",
@@ -28,7 +34,9 @@
     "build": "react-scripts build",
     "dev": "concurrently -k \"npm run start\" \"npm run electron\"",
     "electron": "wait-on tcp:3000 && electron .",
-    "prod": " electron -r dotenv/config ."
+    "prod": " electron -r dotenv/config .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   },
   "eslintConfig": {
     "extends": [
@@ -49,6 +57,7 @@
     ]
   },
   "devDependencies": {
+    "electron-builder": "^23.0.3",
     "concurrently": "^7.2.1",
     "electron": "^18.2.0",
     "wait-on": "^6.0.1"
